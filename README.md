@@ -3,6 +3,14 @@
 
 Also each day can be used to modify the previous webpages.
 
+---
+
+## Contributors
+
+- T Aswin Barath <aswin2001barath@gmail.com>
+
+---
+
 ## License & copyright
 
 (c) T Aswin Barath
