@@ -22,7 +22,9 @@
     <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
     </a>
 
-<br />
+<br>
+<br>
+<br>
 
 
 
@@ -30,10 +32,12 @@
 
 <strong>Date: 1/2/2021</strong><br>
 Repo: [bio-data](https://github.com/AswinBarath/bio-data)
+
+
 <a href="https://github.com/AswinBarath/bio-data">
     <img align="left" width="50%" alt="bio-data logo" src="bio-data.png"/>
 </a>
-
+<br>
 
 ---
 
