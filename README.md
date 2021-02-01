@@ -9,15 +9,12 @@
 ## Useful Links
 
 - For Daily updates, follow me on
-    - [Twitter](https://twitter.com/AswinBarath2)
-    <a href="https://twitter.com/AswinBarath2">
-    <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-    </a>
-    - [LinkedIn](https://www.linkedin.com/in/aswim-barath/)
     <a href="https://www.linkedin.com/in/aswim-barath/">
     <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
     </a>
-    - [Facebook](https://www.facebook.com/profile.php?id=100011683902531)
+    <a href="https://twitter.com/AswinBarath2">
+    <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+    </a>
     <a href="https://www.facebook.com/profile.php?id=100011683902531">
     <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
     </a>
@@ -25,7 +22,7 @@
 
 ## Day 1
 
-<em>Date: 2/1/2021</em>
+<em>Date: 1/2/2021</em><br>
 Repo: [bio-data](https://github.com/AswinBarath/bio-data)
 
 
