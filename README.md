@@ -37,6 +37,9 @@ Repo: [bio-data](https://github.com/AswinBarath/bio-data)
 <a href="https://github.com/AswinBarath/bio-data">
     <img align="left" width="50%" alt="bio-data logo" src="bio-data.png"/>
 </a>
+
+<br>
+<br>
 <br>
 
 ---
