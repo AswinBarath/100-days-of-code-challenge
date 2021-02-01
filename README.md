@@ -25,14 +25,14 @@
 <br />
 
 
----
-
 
 ## Day 1
 
 <strong>Date: 1/2/2021</strong><br>
 Repo: [bio-data](https://github.com/AswinBarath/bio-data)
-
+<a href="https://github.com/AswinBarath/bio-data">
+    <img align="left" width="50%" alt="bio-data logo" src="bio-data.png"/>
+</a>
 
 
 ---
