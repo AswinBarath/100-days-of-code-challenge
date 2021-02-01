@@ -32,7 +32,7 @@
 
 <strong>Date: 1/2/2021</strong><br>
 
-I Spent a good couple of hours setting up and configuring Boostrap for the form layout as the foundation to the first project. Worked a little on project logo and icon.
+I spent a good couple of hours setting up and configuring Boostrap on the form layout as the foundation for the first project. Worked a little on project logo and icon.
 
 Repo: [bio-data](https://github.com/AswinBarath/bio-data)
 
