@@ -8,21 +8,24 @@
 
 ## Useful Links
 
-- For Daily updates, follow me on
+- For Daily updates, follow me on:
+
     <a href="https://www.linkedin.com/in/aswim-barath/">
     <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+
     </a>
     <a href="https://twitter.com/AswinBarath2">
     <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
     </a>
+
     <a href="https://www.facebook.com/profile.php?id=100011683902531">
     <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
     </a>
-
+<br>
 
 ## Day 1
 
-<em>Date: 1/2/2021</em><br>
+<strong>Date: 1/2/2021</strong><br>
 Repo: [bio-data](https://github.com/AswinBarath/bio-data)
 
 
