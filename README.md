@@ -1,6 +1,6 @@
 # 100-days-of-code-challenge
 
-[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working om a personal project which mainly focuses on HTML, CSS and JS to improve my skills and push my boundaries.
+[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on a personal project which mainly focuses on HTML, CSS and JS to improve my skills and push my boundaries.
 
 <p>
 <img src="logo.png" alt="100 Days of Code" />
@@ -21,7 +21,8 @@
     <a href="https://www.facebook.com/profile.php?id=100011683902531">
     <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
     </a>
-<br>
+
+<br />
 
 
 ---
