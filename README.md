@@ -50,7 +50,7 @@ Repo: [bio-data](https://github.com/AswinBarath/bio-data)
 
 <strong>Date: 2/2/2021</strong><br>
 
-Spent time on Blogfolio - my personl blogging website. I created a form builder using mailchimp and deployed an automated newsletter campaign. Added meta tags for displaying thumbnails and description when sharing my blogfolio site link. Also worked on project logo and favicon. And I Finalized the blogfolio project by adding GPL-3.0 License.
+Spent time on Blogfolio - my personal blogging website. I created a form builder using mailchimp and deployed an automated newsletter campaign. Added meta tags for displaying thumbnails and description when sharing my blogfolio site link. Also worked on project logo and favicon. And I Finalized the blogfolio project by adding GPL-3.0 License.
 
 Repo: [blogfolio](https://github.com/AswinBarath/aswinbarath.github.io)
 
