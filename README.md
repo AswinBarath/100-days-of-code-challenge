@@ -65,7 +65,7 @@ Repo: [blogfolio](https://github.com/AswinBarath/aswinbarath.github.io)
 
 Spent a couple of hours learning React.js library. And started building a fun little React app - Robofriends. Also set up npm packages like tachyons for adding simple CSS styles. A few tweaks and design inputs should be enough to finish off the app.
 
-<br> <br>
+<br>
 
 ## Day 4
 
