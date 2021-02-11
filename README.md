@@ -85,7 +85,20 @@ Project: [robofriends app](https://aswinbarath.github.io/robofriends/)
 <br> <br>
 <br> <br>
 
+## Day 5
 
+Put together JavaScript projects into an index repository by adjusting the Markdown in README.md file. Also worked on project logos.
+
+Repo: [JavaScript projects](https://github.com/AswinBarath/JavaScript-projects)
+
+<a href="https://github.com/AswinBarath/JavaScript-projects">
+    <img align="left" width="50%" alt="JavaScript logo" src="JavaScript.png"/>
+</a>
+
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
 
 ---
 
