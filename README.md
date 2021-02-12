@@ -10,7 +10,7 @@
 
 - For Daily updates, follow me on:
 
-    <a href="https://www.linkedin.com/in/aswim-barath/">
+    <a href="https://www.linkedin.com/in/aswin-barath/">
     <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 
     </a>
