@@ -30,16 +30,17 @@
 
 ## Day 1
 
-> Optimized the API for React app: Smart-brain
-> Configured a PostgreSQL database for the app
-> Deployed the front app and API on Heroku
+- Optimized the API for React app: Smart-brain
+- Configured a PostgreSQL database for the app
+- Deployed the front app and API on Heroku
 
 Live project: https://smart-brain-26.herokuapp.com
 
 Smart-brain-app: https://github.com/AswinBarath/Smart-brain-app
 Smart-brain-api: https://github.com/AswinBarath/Smart-brain-api
 
-(A customized code-along project from the Complete Web Developer course, created by @aneagoie )
+A customized code-along project from the Complete Web Developer course, created by @aneagoie
+
 ---
 
 ## Contributors
