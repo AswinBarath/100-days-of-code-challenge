@@ -1,6 +1,6 @@
 # 100-days-of-code-challenge
 
-[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on a personal project which mainly focuses on HTML, CSS and JS to improve my skills and push my boundaries.
+[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on a personal project which mainly focuses on development to improve my skills and push my boundaries.
 
 <p>
 <img src="logo.png" alt="100 Days of Code" />
@@ -30,76 +30,16 @@
 
 ## Day 1
 
-I spent a good couple of hours setting up and configuring Boostrap on the form layout as the foundation for the first project. Worked a little on project logo and icon.
+> Optimized the API for React app: Smart-brain
+> Configured a PostgreSQL database for the app
+> Deployed the front app and API on Heroku
 
-Repo: [bio-data](https://github.com/AswinBarath/bio-data)
+Live project: https://smart-brain-26.herokuapp.com
 
+Smart-brain-app: https://github.com/AswinBarath/Smart-brain-app
+Smart-brain-api: https://github.com/AswinBarath/Smart-brain-api
 
-<a href="https://github.com/AswinBarath/bio-data">
-    <img align="left" width="50%" alt="bio-data logo" src="bio-data.png"/>
-</a>
-
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
-## Day 2
-
-Spent time on Blogfolio - my personal blogging website. I created a form builder using mailchimp and deployed an automated newsletter campaign. Added meta tags for displaying thumbnails and description when sharing my blogfolio site link. Also worked on project logo and favicon. And I Finalized the blogfolio project by adding GPL-3.0 License.
-
-Repo: [blogfolio](https://github.com/AswinBarath/aswinbarath.github.io)
-
-
-<a href="https://github.com/AswinBarath/aswinbarath.github.io">
-    <img align="left" width="50%" alt="blogfolio logo" src="blogfolio.png"/>
-</a>
-
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
-## Day 3
-
-Spent a couple of hours learning React.js library. And started building a fun little React app - Robofriends. Also set up npm packages like tachyons for adding simple CSS styles. A few tweaks and design inputs should be enough to finish off the app.
-
-<br>
-
-## Day 4
-
-Built out a fully-functional React app - Robofriends. Worked on building responsive Components, Dynamic Searchbox using React library and set up ErrorBoundary component to catch errors and display a neat error message. Finally deployed the app into production on GitHub pages.
-
-Repo: [robofriends](https://github.com/AswinBarath/robofriends)
-
-Project: [robofriends app](https://aswinbarath.github.io/robofriends/)
-
-
-<a href="https://aswinbarath.github.io/robofriends/">
-    <img align="left" width="50%" alt="robofriends logo" src="robofriends.png"/>
-</a>
-
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
-## Day 5
-
-Put together JavaScript projects into an index repository by adjusting the Markdown in README.md file. Also worked on project logos.
-
-Repo: [JavaScript projects](https://github.com/AswinBarath/JavaScript-projects)
-
-<a href="https://github.com/AswinBarath/JavaScript-projects">
-    <img align="left" width="50%" alt="JavaScript logo" src="JavaScript.png"/>
-</a>
-
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
+(A customized code-along project from the Complete Web Developer course, created by @aneagoie )
 ---
 
 ## Contributors
