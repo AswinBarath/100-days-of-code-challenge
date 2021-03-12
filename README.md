@@ -41,6 +41,16 @@ Smart-brain-api: https://github.com/AswinBarath/Smart-brain-api
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
 
+## Day 2
+
+- Converted the Robofriends React app into functional components
+- Added React hooks for managing states
+
+Project: https://aswinbarath.github.io/robofriends/
+Repo: https://github.com/AswinBarath/robofriends
+
+A customized code-along project from the Complete Web Developer course, created by @aneagoie
+
 ---
 
 ## Contributors
