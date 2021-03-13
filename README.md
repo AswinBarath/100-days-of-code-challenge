@@ -51,6 +51,17 @@ Repo: https://github.com/AswinBarath/robofriends
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
 
+## Day 3
+
+- Used Redux.js library to manage states for Robofriends React App
+- Applied Actions and reducers to change the view of the App
+- Added redux-logger as a middleware to monitor the change of states in the React app
+
+Project: https://aswinbarath.github.io/robofriends-redux/
+Repo: https://github.com/AswinBarath/robofriends-redux
+
+A customized code-along project from the Complete Web Developer course, created by @aneagoie
+
 ---
 
 ## Contributors
