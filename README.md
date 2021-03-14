@@ -62,6 +62,17 @@ Repo: https://github.com/AswinBarath/robofriends-redux
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
 
+## Day 4
+
+Completed the 2nd challenge in APIs and Microservices from freeCodeCamp 👇
+
+- Built a login node server to get data and respond to POST requests
+- Implemented express middlewares as logger and data processor
+
+Project: https://fcc-login-server.herokuapp.com/
+Repo: https://github.com/AswinBarath/fcc-challenge-2
+
+
 ---
 
 ## Contributors
