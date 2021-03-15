@@ -72,6 +72,14 @@ Completed the 2nd challenge in APIs and Microservices from freeCodeCamp 👇
 Project: https://fcc-login-server.herokuapp.com/
 Repo: https://github.com/AswinBarath/fcc-challenge-2
 
+## Day 5
+
+Completed the 3rd challenge in APIs and Microservices from @freeCodeCamp👇
+ - Performed CRUD operations using #MongoDB and mongoose package
+- Implemented chain queries to Narrow DB search results
+
+Repo: https://github.com/AswinBarath/fcc-challenge-3
+
 
 ---
 
