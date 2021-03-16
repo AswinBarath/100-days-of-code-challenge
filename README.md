@@ -82,11 +82,8 @@ Repo: https://github.com/AswinBarath/fcc-challenge-3
 
 ## Day 6
 
-Day 6
-
 Completed the 1st project challenge in APIs and Microservices from @freeCodeCamp 👇
-
- - Implemented a Timestamp Microservice by creating an endpoint to receive and send dates in UTC and UNIX formats
+- Implemented a Timestamp Microservice by creating an endpoint to receive and send dates in UTC and UNIX formats
 
 Project: https://timestamp-microservice-nodeapi.herokuapp.com/
 
