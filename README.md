@@ -87,6 +87,14 @@ Completed the 1st project challenge in APIs and Microservices from @freeCodeCamp
 
 Project: https://timestamp-microservice-nodeapi.herokuapp.com/
 
+## Day 7
+
+- Worked on JavaScript challenges from @freeCodeCamp 
+- Improved my knowledge of ES6 features
+
+Profile: https://www.freecodecamp.org/aswinbarath
+
+
 ---
 
 ## Contributors
