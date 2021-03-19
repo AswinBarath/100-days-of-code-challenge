@@ -94,6 +94,15 @@ Project: https://timestamp-microservice-nodeapi.herokuapp.com/
 
 Profile: https://www.freecodecamp.org/aswinbarath
 
+## Day 8
+
+Solved JavaScript challenges from @freeCodeCamp on 👇
+- Recursion
+- Array of objects Lookup
+
+Profile: https://www.freecodecamp.org/aswinbarath
+
+
 
 ---
 
