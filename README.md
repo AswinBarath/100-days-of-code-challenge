@@ -102,6 +102,12 @@ Solved JavaScript challenges from @freeCodeCamp on 👇
 
 Profile: https://www.freecodecamp.org/aswinbarath
 
+## Day 9
+Worked on Single page react application
+- Created a navigation bar
+
+Repo: https://github.com/AswinBarath/Basic-banking-system
+
 
 
 ---
