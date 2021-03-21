@@ -112,8 +112,14 @@ Repo: https://github.com/AswinBarath/Basic-banking-system
 Worked on my banking system application
 - Created several react components and states
 
-Full Log: https://github.com/AswinBarath/Basic-banking-system
+Repo: https://github.com/AswinBarath/Basic-banking-system
 
+## Day 11
+Worked on my banking system react app
+- Handled routes for react components
+- Used states for on-click events
+
+Repo: https://github.com/AswinBarath/Basic-banking-system
 
 
 ---
