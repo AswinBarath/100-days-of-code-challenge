@@ -121,6 +121,13 @@ Worked on my banking system react app
 
 Repo: https://github.com/AswinBarath/Basic-banking-system
 
+## Day 12
+Solved problems based on Arrays, Strings and Bitmasking from @leetcode which are medium level, using Java programming language
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+
 
 ---
 
