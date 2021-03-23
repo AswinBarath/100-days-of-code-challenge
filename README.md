@@ -127,6 +127,12 @@ Solved problems based on Arrays, Strings and Bitmasking from @leetcode which are
 Leetcode profile: https://leetcode.com/aswin26barath/
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+## Day 13
+Solved problems based on Arrays and Strings from @leetcode which are medium level, using Java programming language
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
 
 
 ---
