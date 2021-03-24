@@ -133,7 +133,14 @@ Solved problems based on Arrays and Strings from @leetcode which are medium leve
 Leetcode profile: https://leetcode.com/aswin26barath/
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+## Day 14
+Solved problems based on Arrays and Strings from 
+Hacker Blocks, an online coding platform from @CodingBlocksIn using Java programming language
 
+Hacker Blocks profile: https://hack.codingblocks.com/app/users/269765
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+#100DaysOfCode #dsa #java
 
 ---
 
