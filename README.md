@@ -37,6 +37,7 @@
 Live project: https://smart-brain-26.herokuapp.com
 
 Smart-brain-app: https://github.com/AswinBarath/Smart-brain-app
+
 Smart-brain-api: https://github.com/AswinBarath/Smart-brain-api
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
@@ -47,6 +48,7 @@ A customized code-along project from the Complete Web Developer course, created 
 - Added React hooks for managing states
 
 Project: https://aswinbarath.github.io/robofriends/
+
 Repo: https://github.com/AswinBarath/robofriends
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
@@ -58,6 +60,7 @@ A customized code-along project from the Complete Web Developer course, created 
 - Added redux-logger as a middleware to monitor the change of states in the React app
 
 Project: https://aswinbarath.github.io/robofriends-redux/
+
 Repo: https://github.com/AswinBarath/robofriends-redux
 
 A customized code-along project from the Complete Web Developer course, created by @aneagoie
@@ -70,6 +73,7 @@ Completed the 2nd challenge in APIs and Microservices from freeCodeCamp 👇
 - Implemented express middlewares as logger and data processor
 
 Project: https://fcc-login-server.herokuapp.com/
+
 Repo: https://github.com/AswinBarath/fcc-challenge-2
 
 ## Day 5
@@ -125,26 +129,44 @@ Repo: https://github.com/AswinBarath/Basic-banking-system
 Solved problems based on Arrays, Strings and Bitmasking from @leetcode which are medium level, using Java programming language
 
 Leetcode profile: https://leetcode.com/aswin26barath/
+
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 13
 Solved problems based on Arrays and Strings from @leetcode which are medium level, using Java programming language
 
 Leetcode profile: https://leetcode.com/aswin26barath/
+
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 14
 Solved problems based on Arrays and Strings from Hacker Blocks, an online coding platform from @CodingBlocksIn using Java programming language
 
 Hacker Blocks profile: https://hack.codingblocks.com/app/users/269765
+
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 15
 Solved the following problems based on the tags Arrays, Two Pointers and Bit manipulation from @LeetCode using Java:
 - Container With Most Water
 - Power of Four
+
 Leetcode profile: https://leetcode.com/aswin26barath/
+
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+## Day 16
+Solved the following problems based on the tags Arrays, Two Pointers from @LeetCode using Java:
+
+- Maximum Subarray
+- Circular Array Loop
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+
+
 
 ---
 
