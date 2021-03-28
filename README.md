@@ -176,6 +176,16 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+## Day 18
+Solved the following problems based on the tags Array, Two Pointers, Hash Table, Math from @LeetCode using Java:
+
+- Happy Number
+- Move Zeroes
+- Distribute Candies
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ---
 
