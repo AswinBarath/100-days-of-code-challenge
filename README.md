@@ -187,6 +187,17 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+## Day 19
+Solved the following problems based on the tags Array, String, Math from @LeetCode using Java:
+
+- Add Strings
+- Multiply Strings
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+
 ---
 
 ## Contributors
