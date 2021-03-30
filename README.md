@@ -197,6 +197,17 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+### Day 20
+Solved the following problems based on the tags String, Two pointers, Sliding window, Hash Table & Bit Manipulation from @LeetCode using Java:
+
+- Single Number
+- Minimum Window Substring
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+
 
 ---
 
