@@ -130,21 +130,21 @@ Solved problems based on Arrays, Strings and Bitmasking from @leetcode which are
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 13
 Solved problems based on Arrays and Strings from @leetcode which are medium level, using Java programming language
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 14
 Solved problems based on Arrays and Strings from Hacker Blocks, an online coding platform from @CodingBlocksIn using Java programming language
 
 Hacker Blocks profile: https://hack.codingblocks.com/app/users/269765
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 15
 Solved the following problems based on the tags Arrays, Two Pointers and Bit manipulation from @LeetCode using Java:
@@ -153,7 +153,7 @@ Solved the following problems based on the tags Arrays, Two Pointers and Bit man
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 16
 Solved the following problems based on the tags Arrays, Two Pointers from @LeetCode using Java:
@@ -163,7 +163,7 @@ Solved the following problems based on the tags Arrays, Two Pointers from @LeetC
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 17
 Solved the following problems based on the tags Dynamic Programming from @LeetCode using Java:
@@ -174,7 +174,7 @@ Solved the following problems based on the tags Dynamic Programming from @LeetCo
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 18
 Solved the following problems based on the tags Array, Two Pointers, Hash Table, Math from @LeetCode using Java:
@@ -185,7 +185,7 @@ Solved the following problems based on the tags Array, Two Pointers, Hash Table,
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ## Day 19
 Solved the following problems based on the tags Array, String, Math from @LeetCode using Java:
@@ -195,7 +195,7 @@ Solved the following problems based on the tags Array, String, Math from @LeetCo
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 ### Day 20
 Solved the following problems based on the tags String, Two pointers, Sliding window, Hash Table & Bit Manipulation from @LeetCode using Java:
@@ -205,7 +205,21 @@ Solved the following problems based on the tags String, Two pointers, Sliding wi
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
+### Day 21
+Today I solved some of the most frequently asked interview problems on Arrays and strings using Java:
+- Count zero
+- Target zero
+- Overlapping rectangles
+- Word Distance I
+
+At first, these problems felt tricky🤯 to solve,
+but it was doable💪⚡️
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
 
 
