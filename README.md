@@ -221,6 +221,18 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
+### Day 22
+Today I solved more interview problems💪
+on arrays and strings using Java:
+- Attend All meetings
+(Given the intervals, find out maximum meetings we can attend)
+- Form the biggest number
+(Given array converted into the biggest number possible)
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
+
 
 
 ---
