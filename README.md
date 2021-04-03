@@ -240,6 +240,17 @@ https://lnkd.in/eUcVPp8
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
+### Day 24
+👉Took part in my first Leetcode contest💪
+-> "Biweekly Contest 49" and solved one successfully:
+Determine Color of a Chessboard Square (https://lnkd.in/efWDPcX)
+👉Solved problems based on Binary Search algorithm
+First Bad Version
+(https://lnkd.in/ephMYcB)
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+
 
 
 ---
