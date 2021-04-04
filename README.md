@@ -250,7 +250,14 @@ First Bad Version
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
+### Day 25
+👉Participated in Leetcode Weekly Contest 235⚡️
+👉Solved the problems🖥️
+     1 Truncate Sentence
+     2 Bitonic Subsequences
+👉Learnt more about HashSets and LinkedHashSets from the Collections framework📦
 
+Leetcode profile: https://leetcode.com/aswin26barath/
 
 
 ---
