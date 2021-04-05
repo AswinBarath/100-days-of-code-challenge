@@ -260,6 +260,15 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 
+#### Day 26
+👉Took a deep dive on Collections Framework methods
+👉Solved the Google interview problem🖥️
+    👉Knight Dialer
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+
+
 ---
 
 ## Contributors
