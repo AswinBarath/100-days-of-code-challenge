@@ -197,7 +197,7 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
-### Day 20
+## Day 20
 Solved the following problems based on the tags String, Two pointers, Sliding window, Hash Table & Bit Manipulation from @LeetCode using Java:
 
 - Single Number
@@ -207,7 +207,7 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
-### Day 21
+## Day 21
 Today I solved some of the most frequently asked interview problems on Arrays and strings using Java:
 - Count zero
 - Target zero
@@ -221,7 +221,7 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
-### Day 22
+## Day 22
 Today I solved more interview problems💪
 on arrays and strings using Java:
 - Attend All meetings
@@ -233,14 +233,14 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 DSA Problems Repo: https://github.com/AswinBarath/Data-Structures-and-Algorithms
 
-### Day 23
+## Day 23
 Today explored more problems on Linked List and solved them by contributing to the April Leetcode Challenge 2021:
 
 https://lnkd.in/eUcVPp8
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-### Day 24
+## Day 24
 👉Took part in my first Leetcode contest💪
 -> "Biweekly Contest 49" and solved one successfully:
 Determine Color of a Chessboard Square (https://lnkd.in/efWDPcX)
@@ -250,7 +250,7 @@ First Bad Version
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
-### Day 25
+## Day 25
 👉Participated in Leetcode Weekly Contest 235⚡️
 👉Solved the problems🖥️
      1 Truncate Sentence
@@ -260,12 +260,24 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 
-#### Day 26
+## Day 26
 👉Took a deep dive on Collections Framework methods
 👉Solved the Google interview problem🖥️
     👉Knight Dialer
 
 Leetcode profile: https://leetcode.com/aswin26barath/
+
+## Day 27
+👉Took a deep dive into HashMaps and its variants from Java (which is not part of Collections🤯)
+👉Solved the problems
+1Fibonacci number
+(https://lnkd.in/eSVTtgx)
+2Climbing stairs
+(https://lnkd.in/eJYMhRP)
+from LeetCode which has the same logic in terms of implementing the solution
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
 
 
 
