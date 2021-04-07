@@ -270,11 +270,20 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 ## Day 27
 👉Took a deep dive into HashMaps and its variants from Java (which is not part of Collections🤯)
 👉Solved the problems
-1Fibonacci number
+1 Fibonacci number
 (https://lnkd.in/eSVTtgx)
-2Climbing stairs
+2 Climbing stairs
 (https://lnkd.in/eJYMhRP)
 from LeetCode which has the same logic in terms of implementing the solution
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+## Day 28
+👉Solved the problems
+Single Element in a Sorted Array
+(https://leetcode.com/problems/single-element-in-a-sorted-array)
+
+from @LeetCode
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
