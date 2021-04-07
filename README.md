@@ -279,11 +279,12 @@ from LeetCode which has the same logic in terms of implementing the solution
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 28
-👉Solved the problems
+👉Solved another FAQ in the #FAANG interview
 Single Element in a Sorted Array
-(https://leetcode.com/problems/single-element-in-a-sorted-array)
+(https://leetcode.com/problems/single-element-in-a-sorted-array) from @LeetCode 
 
-from @LeetCode
+Brute force: Use XOR operation
+Optimized:  Use Binary search
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
