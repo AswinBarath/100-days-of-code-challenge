@@ -288,6 +288,12 @@ Optimized:  Use Binary search
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
+## Day 29 
+👉Solved another interview problem
+Pascal's Triangle
+(https://leetcode.com/problems/pascals-triangle/) from @LeetCode 
+
+Leetcode profile: https://leetcode.com/aswin26barath/
 
 
 
