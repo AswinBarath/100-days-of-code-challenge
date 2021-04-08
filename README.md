@@ -289,7 +289,7 @@ Optimized:  Use Binary search
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 29 
-👉Solved another interview problem
+👉Solved another interview problem using Arrays and Dynamic programming
 Pascal's Triangle
 (https://leetcode.com/problems/pascals-triangle/) from @LeetCode 
 
