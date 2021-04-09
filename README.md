@@ -295,6 +295,14 @@ Pascal's Triangle
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
+## Day 30
+👉Solved the problems
+1 Remove Element
+2 Remove Duplicates from Sorted Array
+3 Remove Linked List Elements
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
 
 
 ---
