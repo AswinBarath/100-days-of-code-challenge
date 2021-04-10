@@ -304,7 +304,6 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 31
-Day 31
 Worked on Stock Market Data Processor project where I used Data Structures extensively from #Java and used👇
 1 BufferedReader for reading data from CSV file
 2 ArrayLists and Hashmaps to store the data
