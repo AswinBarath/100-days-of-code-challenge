@@ -311,6 +311,17 @@ Worked on Stock Market Data Processor project where I used Data Structures exten
 ( Code-along project from Job Ready Programmer platform )
 Project Repo: https://github.com/AswinBarath/stock-analysis
 
+## Day 32
+
+👉Participated in Leetcode Weekly Contest 236⚡️
+👉Solved the problems🖥️
+     1👉Sign of the Product of an Array
+     2👉Distribute Coins in Binary Tree
+👉Learnt the basics of TypeScript
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+
+
 
 
 ---
