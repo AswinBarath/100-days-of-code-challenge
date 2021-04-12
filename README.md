@@ -321,6 +321,18 @@ Project Repo: https://github.com/AswinBarath/stock-analysis
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
+## Day 33
+
+Today I solved the problems based on Bit manipulation:
+1 Number of Steps to Reduce a Number to Zero
+2 Hamming Distance
+
+Problems on LeetCode :
+1 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
+2 https://leetcode.com/problems/hamming-distance
+
+Leetcode profile: https://leetcode.com/aswin26barath/
+ 
 
 
 
