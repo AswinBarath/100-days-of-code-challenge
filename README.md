@@ -332,6 +332,15 @@ Problems on LeetCode :
 2 https://leetcode.com/problems/hamming-distance
 
 Leetcode profile: https://leetcode.com/aswin26barath/
+
+## Day 34
+
+Today I learnt the basics of Android development📱 and this is what I covered👇
+     1 Android app components
+     2 Folder structure
+     3 Activity, states and its life cycle methods
+
+👉Built my first Android app in dark mode🌃 and used USB debugging⚡️
  
 
 
