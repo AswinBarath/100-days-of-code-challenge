@@ -242,9 +242,13 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 24
 👉Took part in my first Leetcode contest💪
+
 -> "Biweekly Contest 49" and solved one successfully:
+
 Determine Color of a Chessboard Square (https://lnkd.in/efWDPcX)
+
 👉Solved problems based on Binary Search algorithm
+
 First Bad Version
 (https://lnkd.in/ephMYcB)
 
@@ -252,9 +256,13 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 25
 👉Participated in Leetcode Weekly Contest 235⚡️
+
 👉Solved the problems🖥️
+
      1 Truncate Sentence
+
      2 Bitonic Subsequences
+
 👉Learnt more about HashSets and LinkedHashSets from the Collections framework📦
 
 Leetcode profile: https://leetcode.com/aswin26barath/
@@ -262,34 +270,41 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 26
 👉Took a deep dive on Collections Framework methods
+
 👉Solved the Google interview problem🖥️
+
     👉Knight Dialer
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 27
 👉Took a deep dive into HashMaps and its variants from Java (which is not part of Collections🤯)
+
 👉Solved the problems
+
 1 Fibonacci number
 (https://lnkd.in/eSVTtgx)
+
 2 Climbing stairs
-(https://lnkd.in/eJYMhRP)
+(https://lnkd.in/eJYMhRP) 
 from LeetCode which has the same logic in terms of implementing the solution
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 28
 👉Solved another FAQ in the #FAANG interview
+
 Single Element in a Sorted Array
 (https://leetcode.com/problems/single-element-in-a-sorted-array) from @LeetCode 
 
-Brute force: Use XOR operation
+Brute force: Use XOR operation 
 Optimized:  Use Binary search
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 29 
 👉Solved another interview problem using Arrays and Dynamic programming
+
 Pascal's Triangle
 (https://leetcode.com/problems/pascals-triangle/) from @LeetCode 
 
@@ -297,26 +312,36 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 30
 👉Solved the problems
+
 1 Remove Element
+
 2 Remove Duplicates from Sorted Array
+
 3 Remove Linked List Elements
 
 Leetcode profile: https://leetcode.com/aswin26barath/
 
 ## Day 31
 Worked on Stock Market Data Processor project where I used Data Structures extensively from #Java and used👇
+
 1 BufferedReader for reading data from CSV file
+
 2 ArrayLists and Hashmaps to store the data
 
 ( Code-along project from Job Ready Programmer platform )
+
 Project Repo: https://github.com/AswinBarath/stock-analysis
 
 ## Day 32
 
 👉Participated in Leetcode Weekly Contest 236⚡️
+
 👉Solved the problems🖥️
+
      1👉Sign of the Product of an Array
+
      2👉Distribute Coins in Binary Tree
+
 👉Learnt the basics of TypeScript
 
 Leetcode profile: https://leetcode.com/aswin26barath/
@@ -324,11 +349,15 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 ## Day 33
 
 Today I solved the problems based on Bit manipulation:
+
 1 Number of Steps to Reduce a Number to Zero
+
 2 Hamming Distance
 
 Problems on LeetCode :
+
 1 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
+
 2 https://leetcode.com/problems/hamming-distance
 
 Leetcode profile: https://leetcode.com/aswin26barath/
@@ -336,9 +365,13 @@ Leetcode profile: https://leetcode.com/aswin26barath/
 ## Day 34
 
 Today I learnt the basics of Android development📱 and this is what I covered👇
+
      1 Android app components
+
      2 Folder structure
+     
      3 Activity, states and its life cycle methods
+
 
 👉Built my first Android app in dark mode🌃 and used USB debugging⚡️
  
