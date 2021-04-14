@@ -374,7 +374,12 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 
 
 👉Built my first Android app in dark mode🌃 and used USB debugging⚡️
- 
+
+## Day 35
+
+👉Covered the Resources and Layout concepts from Android app development
+
+👉Solved the problem Partition list from April @Leetcode challenge
 
 
 
