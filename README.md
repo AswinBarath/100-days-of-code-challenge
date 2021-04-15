@@ -382,6 +382,10 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 👉Solved the problem Partition list from April @Leetcode challenge
 
 
+## Day 36
+
+👉Took a deep dive in generics and how much importance it provides towards the type safety of Data structures in Java language
+ 
 
 ---
 
