@@ -381,11 +381,20 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 
 👉Solved the problem Partition list from April @Leetcode challenge
 
-
 ## Day 36
 
 👉Took a deep dive in generics and how much importance it provides towards the type safety of Data structures in Java language
- 
+
+## Day 37
+
+#LeetCode# I have solved Queries on Number of Points Inside a Circle.
+                        Come and join the fun! https://leetcode.com/contest/biweekly-contest-50/problems/queries-on-number-of-points-inside-a-circle/
+
+## Day 38
+
+Solved problems based on the combo of Arrays and XOR operations
+
+
 
 ---
 
