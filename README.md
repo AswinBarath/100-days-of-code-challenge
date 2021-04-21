@@ -394,6 +394,16 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 
 Solved problems based on the combo of Arrays and XOR operations
 
+## Day 39 
+⚡️Built a #Blockchain using #TypeScript 
+💪Completed my TypeScript beginner course
+
+🤓Learning NestJS Architecture, a progressive #Nodejs framework for server-side applications. And covered the topics:
+1Controllers
+2Services
+
+#100DaysOfCode 
+
 
 
 ---
