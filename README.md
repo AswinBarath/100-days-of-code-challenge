@@ -394,7 +394,7 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 
 Solved problems based on the combo of Arrays and XOR operations
 
-## Day 39 
+## Day 39 - 40
 ⚡️Built a #Blockchain using #TypeScript 
 💪Completed my TypeScript beginner course
 
