@@ -388,6 +388,7 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 ## Day 37
 
 #LeetCode# I have solved Queries on Number of Points Inside a Circle.
+
                         Come and join the fun! https://leetcode.com/contest/biweekly-contest-50/problems/queries-on-number-of-points-inside-a-circle/
 
 ## Day 38
@@ -400,9 +401,12 @@ Solved problems based on the combo of Arrays and XOR operations
 
 💪Completed my TypeScript beginner course
 
-🤓Learning NestJS Architecture, a progressive #Nodejs framework for server-side applications. And covered the topics:
+🤓Learning NestJS Architecture, a progressive #Nodejs framework for server-side applications.
+
+And covered the topics:
 
 1 Controllers
+
 2 Services
 
 ## Day 41 - 50
@@ -410,6 +414,7 @@ Solved problems based on the combo of Arrays and XOR operations
 Solved two problems:
 
 1 Rotate image
+
 2 Power of three
 
 Learnt more about Nest.js framework:
