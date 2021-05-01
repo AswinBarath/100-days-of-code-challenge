@@ -395,15 +395,40 @@ Today I learnt the basics of Android development📱 and this is what I covered�
 Solved problems based on the combo of Arrays and XOR operations
 
 ## Day 39 - 40
+
 ⚡️Built a #Blockchain using #TypeScript 
+
 💪Completed my TypeScript beginner course
 
 🤓Learning NestJS Architecture, a progressive #Nodejs framework for server-side applications. And covered the topics:
-1Controllers
-2Services
 
-#100DaysOfCode 
+1 Controllers
+2 Services
 
+## Day 41 - 50
+
+Solved two problems:
+
+1 Rotate image
+2 Power of three
+
+Learnt more about Nest.js framework:
+
+- Controllers
+- Entities
+- Services
+
+Built a movie API using Nest.js:
+
+- Added controllers
+- Added more routes
+- Implemented CRUD routes
+- Created a movie service
+
+Revised Java concepts:
+
+- Generics
+- Collections framework
 
 
 ---
