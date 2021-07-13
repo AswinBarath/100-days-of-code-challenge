@@ -53,6 +53,21 @@ Learn More and Join me!
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 
+## Day 2
+
+- I have solved 8 Problems on Array Data Structure at Leetcode and GFG:
+  - Count Inversions
+  - Buy and Sell stocks
+  - Rotate Image
+  - Search in 2D Matrix
+  - Search in 2D Matrix - II
+  - Determine Whether Matrix Can Be Obtained By Rotation
+  - Majority element - I
+  - Majority element - II
+
+My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
+
+
 
 
 ---
