@@ -67,6 +67,14 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
+## Day 3
+
+- I have solved 2 Problems on Array Data Structure at Leetcode:
+  - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
+  - Most frequently asked Google SDE problem: [Unique Paths](https://leetcode.com/problems/unique-paths)
+
+My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
+
 
 
 
