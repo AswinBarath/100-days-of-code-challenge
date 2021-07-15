@@ -42,7 +42,7 @@ Learn More and Join me!
 
 ## Day 1
 
-- Today, I have solved 6 frequently asked Interview Problems on Array Data Structure:
+- Solved 6 frequently asked Interview Problems on Array Data Structure:
   - Next Permutation
   - Pascal's Triangle II
   - Pascal's Triangle
@@ -55,7 +55,7 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 ## Day 2
 
-- I have solved 8 Problems on Array Data Structure at Leetcode and GFG:
+- Solved 8 Problems on Array Data Structure at Leetcode and GFG:
   - Count Inversions
   - Buy and Sell stocks
   - Rotate Image
@@ -70,9 +70,17 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 ## Day 3
 
-- I have solved 2 Problems on Array Data Structure at Leetcode:
+- Solved 2 Problems on Array Data Structure at Leetcode:
   - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
   - Most frequently asked Google SDE problem: [Unique Paths](https://leetcode.com/problems/unique-paths)
+
+My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
+
+
+## Day 4
+
+- Revised Hashmaps and Generics concepts in Java
+- Solved Two Sum problem using Hashmaps at Leetcode
 
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
