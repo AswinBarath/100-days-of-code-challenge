@@ -84,6 +84,11 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
+## Day 5
+
+- Solved python challenges based on Object oriented programming
+
+Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challenges#challenge-1)
 
 
 
