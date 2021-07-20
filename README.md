@@ -91,6 +91,11 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challenges#challenge-1)
 
 
+## Day 6
+
+- Built an IMDb web scrapper to generate the data of top 5 IMDb rated Movies and top 10 IMDb rated directors using Beautiful soup
+
+
 
 ---
 
