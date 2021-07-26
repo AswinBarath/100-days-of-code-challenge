@@ -84,6 +84,7 @@ My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
 My Leetcode profile: [aswin26barath](https://leetcode.com/aswin26barath/)
 
+
 ## Day 5
 
 - Solved python challenges based on Object oriented programming
@@ -94,6 +95,14 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 ## Day 6
 
 - Built an IMDb web scrapper to generate the data of top 5 IMDb rated Movies and top 10 IMDb rated directors using Beautiful soup
+
+
+## Day 7
+
+- Built my personal portfolio website -> https://aswinbarath.me/
+- Deployed on Netlify hosting platform
+- And set up a custom domain using namecheap service
+
 
 
 
