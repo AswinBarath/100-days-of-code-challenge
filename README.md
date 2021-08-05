@@ -104,6 +104,21 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - And set up a custom domain using namecheap service
 
 
+## Day 8-14
+
+
+
+- Started off with the week with vaccination 💉💪
+- Solved SDE problems from GFG ✍
+- Built an IoT project "Eco Monitor" - Light Intensity Sensor project🍀
+- Performed data analystics using visualization to display sensor data 📈📊📉
+- Solved Regular expression challenges in JavaScript from Hackerrank 🧾
+- Built a Stack Data Structure using Java 📚
+- Learnt more about objects, methods, dependencies 🕵️‍♀️
+- Learnt basics of Spring framework (Java) 🍃
+
+
+
 
 
 ---
