@@ -118,7 +118,7 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Learnt basics of Spring framework (Java) 🍃
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="800px"/>
 </p>
 
 <p>
@@ -131,21 +131,17 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="400px"/>
-</p>
 
-<p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="800px"/>
 </p>
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="400px"/>
-</p>
 
-<p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="400px"/>
 </p>
 
