@@ -140,9 +140,9 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="800px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="800px"/>
 </p>
 
 
