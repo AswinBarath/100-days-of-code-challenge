@@ -118,39 +118,37 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Learnt basics of Spring framework (Java) 🍃
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="200px"/>
+
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Area%20Graph%20Sensor%20Data.png" alt="Area graph sensor data" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Area%20Graph%20Sensor%20Data.png" alt="Area graph sensor data" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Bolt%20IoT%20Eco%20Monitor%20Gauge%20visualization.png" alt="Guage data visual" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Bolt%20IoT%20Eco%20Monitor%20Gauge%20visualization.png" alt="Guage data visual" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="200px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="50px"/>
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="50px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="200px"/>
 </p>
 
 
