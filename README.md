@@ -163,8 +163,9 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star.png" alt=Hackerrank 10 Days of JS congrats message" width="400px"/>
 </p>
+
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.png" alt=Hackerrank 10 Days of JS Gold badge" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt=Hackerrank 10 Days of JS Gold badge" width="800px"/>
 </p>
 
 ---
