@@ -150,7 +150,7 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Brushed up Java skills with 30 Days of Code Hackerrank challenge
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day15/Hackerrank%2030%20days%20of%20code%20silver.png" alt=Hackerrank 30 days of code silver" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day15/Hackerrank%2030%20days%20of%20code%20silver.png" alt="Hackerrank 30 days of code silver" width="800px"/>
 </p>
 
 
@@ -159,31 +159,41 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Completed the JavaScript challenges from 10 Days of JS
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20silver%204%20star.png" alt=Hackerrank 10 Days of JS silver" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20silver%204%20star.png" alt="Hackerrank 10 Days of JS silver" width="400px"/>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star.png" alt=Hackerrank 10 Days of JS congrats message" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star.png" alt="Hackerrank 10 Days of JS congrats message" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt=Hackerrank 10 Days of JS Gold badge" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt="Hackerrank 10 Days of JS Gold badge" width="800px"/>
 </p>
 
 
 ## Day 18-20
 
-Disentangled JavaScript Algorithms and Data Structures course from freeCodeCamp for the past three days by:
+Disentangled JavaScript Algorithms and Data Structures course from freeCodeCamp for the past three days:
 
 - Solved more challenges on Regular expressions using JavaScript
-
 - Completed JavaScript debugging challenges
-
-
 
 Check out the JavaScript tutorials on Regular expressions to learn from basics to advanced regex statements by solving real-world challenges:
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions
 
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20regex%20challenges%2066.png" alt="FCC JS regex challenges 66" width="400px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20regex%20challenges%20100.png" alt="FCC JS regex challenges 100" width="400px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20debugging%20challenges%20100%20(2).png" alt="FCC JS debugging challenges 100" width="400px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20debugging%20challenges%20100.png" alt="FCC JS debugging challenges 100 (2)" width="400px"/>
+</p>
 
 
 
