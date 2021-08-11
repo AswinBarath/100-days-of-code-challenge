@@ -169,6 +169,25 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt=Hackerrank 10 Days of JS Gold badge" width="800px"/>
 </p>
 
+
+## Day 18-20
+
+Disentangled JavaScript Algorithms and Data Structures course from freeCodeCamp for the past three days by:
+
+- Solved more challenges on Regular expressions using JavaScript
+
+- Completed JavaScript debugging challenges
+
+
+
+Check out the JavaScript tutorials on Regular expressions to learn from basics to advanced regex statements by solving real-world challenges:
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions
+
+
+
+
+
 ---
 
 ## Contributors
