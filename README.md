@@ -195,7 +195,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 
 ## Day 21-24
 
-After solving variuos problems on Arrays, Strings and Hashmaps:
+After solving various problems on Arrays, Strings and Hashmaps:
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Key%20Pair%20gfg.png" alt="Key Pair GFG" width="400px"/>
