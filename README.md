@@ -228,6 +228,33 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Middle of a Linked list
 - Even nodes after odd in Linked list
 
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Node.png" alt="Node in LL" width="800px"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Reverse%20LL.png" alt="Reverse LL" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/ReverseLL.PNG" alt="Reverse LL leetcode" width="400px"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Middle%20Of%20LL.png" alt="Middle Of LL" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/MiddleOfLL.PNG" alt="Middle Of LL leetcode" width="400px"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Leetcode%20LL%20odd%20even%20segregation.png" alt="Segregate odd and even node in LL leetcode" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Segregate%20odd%20and%20even%20node%20in%20LL.png" alt="Segregate even and odd node in LL GFG" width="400px"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Rearrange%20a%20linked%20list.png" alt="Rearrange LL GFG" width="800px"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/SinglyLL.png" alt="Singly Linked List code" width="800px"/>
+</p>
+
 [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 
