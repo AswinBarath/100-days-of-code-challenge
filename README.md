@@ -193,7 +193,25 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20debugging%20challenges%20100%20(2).png" alt="FCC JS debugging challenges 100 (2)" width="400px"/>
 </p>
 
+## Day 21-24
 
+Pulled off a deep dive in Linked list data structure after solving variuos problems on Arrays, Strings and Hashmaps.
+And learnt more about:
+
+- What is a Linked list?
+- Need for Linked list
+- Arrays VS Linked list
+- Types of Linked list
+- Linked list operations
+- Types of problems
+
+Also I have solved few problems based on Linked list at Leetcode and GFG
+
+- Reverse a Linked list
+- Middle of a Linked list
+- Even nodes after odd in Linked list
+
+[Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 
 ---
