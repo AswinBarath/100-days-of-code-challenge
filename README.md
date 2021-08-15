@@ -195,8 +195,21 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 
 ## Day 21-24
 
-Pulled off a deep dive in Linked list data structure after solving variuos problems on Arrays, Strings and Hashmaps.
-And learnt more about:
+After solving variuos problems on Arrays, Strings and Hashmaps:
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Key%20Pair%20gfg.png" alt="Key Pair GFG" width="400px"/>
+
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Length%20of%20the%20longest%20substring%20GFG.png" alt="Length of the longest substring GFG" width="400px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Container%20with%20most%20water%20gfg.png" alt="Container with most water GFG" width="400px"/>
+
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Trapping%20rain%20water%20gfg.png" alt="Trapping rain water GFG" width="400px"/>
+</p>
+
+
+Pulled off a deep dive in Linked list data structure and learnt more about:
 
 - What is a Linked list?
 - Need for Linked list
