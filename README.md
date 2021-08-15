@@ -218,6 +218,10 @@ Pulled off a deep dive in Linked list data structure and learnt more about:
 - Linked list operations
 - Types of problems
 
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Linked%20lists%20docs.PNG" alt="Linked lists docs.PNG" width="800px"/>
+</p>
+
 Also I have solved few problems based on Linked list at Leetcode and GFG
 
 - Reverse a Linked list
