@@ -288,9 +288,10 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 ## Day 31
 
-- Implemented concurrent producer-consumer pattern using Java
-- Worked with ArrayBlockingQueue collection
-
+- Executed a concurrent producer-consumer pattern using Java
+- Operated with ArrayBlockingQueue collection
+- Obtained knowledge on Thread pools
+- Engaged Executor Framework to perform tasks using spawned thread pools
 
 ---
 
