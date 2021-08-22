@@ -295,6 +295,9 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 - Java Database Connectivity (JDBC) overview
 - Installation of MySQL for Java
+- Connecting a Database using JDBC
+
+
 
 ---
 
