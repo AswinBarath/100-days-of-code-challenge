@@ -286,6 +286,11 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day25-30/3%20Hackerrank%20Java%20Exception%20Handling.png" alt="Hackerrank Java Exception Handling" width="400px"/>
 </p>
 
+## Day 31
+
+- Implemented concurrent producer-consumer pattern using Java
+- Worked with ArrayBlockingQueue collection
+
 
 ---
 
