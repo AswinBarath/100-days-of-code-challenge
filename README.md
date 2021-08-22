@@ -293,6 +293,9 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Obtained knowledge on Thread pools
 - Engaged Executor Framework to perform tasks using spawned thread pools
 
+- Java Database Connectivity (JDBC) overview
+- Installation of MySQL for Java
+
 ---
 
 ## Contributors
