@@ -306,10 +306,18 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 ## Day 32
 
 - Grasped the concepts of Lambda expressions in Java
-- Got the hang of Functional programming paradigm implemented in Java 8
+- Got the hang of the Functional programming paradigm implemented in Java 8
 - Exercised converting methods into lambda expressions
 - Designed custom Functional interfaces to operate with lambdas
-- 
+- Pulled off a swift dive in Tree data structure and learnt more about:
+    - Introduction and terminologies in a Tree
+    - Types of Binary Trees
+    - Types of Tree Traversals
+    - Representation of Binary Tree in Java
+
+[Trees Repo](https://github.com/AswinBarath/Trees)
+
+
 
 ---
 
