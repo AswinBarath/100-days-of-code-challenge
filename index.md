@@ -12,8 +12,8 @@
 
     <a href="https://www.linkedin.com/in/aswin-barath/">
     <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-
     </a>
+
     <a href="https://twitter.com/AswinBarath2">
     <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
     </a>
