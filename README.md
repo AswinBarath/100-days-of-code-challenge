@@ -303,6 +303,11 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Installed MySQL for Java
 - Connected a database using JDBC
 
+## Day 32
+
+- Grasped the concepts of Lambda expressions in Java
+- Got the hang of Functional programming paradigm implemented in Java 8
+
 
 ---
 
