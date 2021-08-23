@@ -12,8 +12,8 @@
 
     <a href="https://www.linkedin.com/in/aswin-barath/">
     <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-
     </a>
+
     <a href="https://twitter.com/AswinBarath2">
     <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
     </a>
@@ -309,6 +309,7 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Got the hang of Functional programming paradigm implemented in Java 8
 - Exercised converting methods into lambda expressions
 - Designed custom Functional interfaces to operate with lambdas
+- 
 
 ---
 
