@@ -3,7 +3,7 @@
 [100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on a personal project which mainly focuses on development to improve my skills and push my boundaries.
 
 <p>
-<img src="#100DaysOfCode - Dark design.png" alt="100 Days of Code" />
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/%23100DaysOfCode%20-%20Dark%20design.png" alt="100 Days of Code" />
 </p>
 
 ## Useful Links
