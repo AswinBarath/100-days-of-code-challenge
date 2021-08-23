@@ -96,6 +96,12 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 
 - Built an IMDb web scrapper to generate the data of top 5 IMDb rated Movies and top 10 IMDb rated directors using Beautiful soup
 
+Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-scrapper)
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/IMDb%20web%20Scapper.png" alt="IMDb web Scapper" width="800px"/>
+</p>
+
 
 ## Day 7
 
@@ -116,31 +122,31 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Learnt basics of Spring framework (Java) 🍃
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="800px"/>
 </p>
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Area%20Graph%20Sensor%20Data.png" alt="Area graph sensor data" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Area%20Graph%20Sensor%20Data.png" alt="Area graph sensor data" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Bolt%20IoT%20Eco%20Monitor%20Gauge%20visualization.png" alt="Guage data visual" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Bolt%20IoT%20Eco%20Monitor%20Gauge%20visualization.png" alt="Guage data visual" width="400px"/>
 </p>
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="800px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="800px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="800px"/>
 </p>
 
 
@@ -150,7 +156,7 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Brushed up Java skills with 30 Days of Code Hackerrank challenge
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day15/Hackerrank%2030%20days%20of%20code%20silver.png" alt="Hackerrank 30 days of code silver" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day15/Hackerrank%2030%20days%20of%20code%20silver.png" alt="Hackerrank 30 days of code silver" width="800px"/>
 </p>
 
 
@@ -159,13 +165,13 @@ Python Challenge: [Challenge - 1](https://github.com/AswinBarath/Python-challeng
 - Completed the JavaScript challenges from 10 Days of JS
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20silver%204%20star.png" alt="Hackerrank 10 Days of JS silver" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day16-17/10%20Days%20of%20JS%20silver%204%20star.png" alt="Hackerrank 10 Days of JS silver" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star.png" alt="Hackerrank 10 Days of JS congrats message" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day16-17/10%20Days%20of%20JS%20gold%205%20star.png" alt="Hackerrank 10 Days of JS congrats message" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt="Hackerrank 10 Days of JS Gold badge" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day16-17/10%20Days%20of%20JS%20gold%205%20star%20badge.PNG" alt="Hackerrank 10 Days of JS Gold badge" width="800px"/>
 </p>
 
 
@@ -182,15 +188,15 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20regex%20challenges%2066.png" alt="FCC JS regex challenges 66" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20regex%20challenges%2066.png" alt="FCC JS regex challenges 66" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20regex%20challenges%20100.png" alt="FCC JS regex challenges 100" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20regex%20challenges%20100.png" alt="FCC JS regex challenges 100" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20debugging%20challenges%20100.png" alt="FCC JS debugging challenges 100" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20debugging%20challenges%20100.png" alt="FCC JS debugging challenges 100" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day18-20/FCC%20JS%20debugging%20challenges%20100%20(2).png" alt="FCC JS debugging challenges 100 (2)" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20debugging%20challenges%20100%20(2).png" alt="FCC JS debugging challenges 100 (2)" width="400px"/>
 </p>
 
 ## Day 21-24
@@ -198,14 +204,14 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 After solving various problems on Arrays, Strings and Hashmaps:
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Key%20Pair%20gfg.png" alt="Key Pair GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Key%20Pair%20gfg.png" alt="Key Pair GFG" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Length%20of%20the%20longest%20substring%20GFG.png" alt="Length of the longest substring GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Length%20of%20the%20longest%20substring%20GFG.png" alt="Length of the longest substring GFG" width="400px"/>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Container%20with%20most%20water%20gfg.png" alt="Container with most water GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Container%20with%20most%20water%20gfg.png" alt="Container with most water GFG" width="400px"/>
 
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Trapping%20rain%20water%20gfg.png" alt="Trapping rain water GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Trapping%20rain%20water%20gfg.png" alt="Trapping rain water GFG" width="400px"/>
 </p>
 
 
@@ -219,7 +225,7 @@ Pulled off a deep dive in Linked list data structure and learnt more about:
 - Types of problems
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Linked%20lists%20docs.PNG" alt="Linked lists docs.PNG" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Linked%20lists%20docs.PNG" alt="Linked lists docs.PNG" width="800px"/>
 </p>
 
 Also I have solved few problems based on Linked list at Leetcode and GFG
@@ -229,12 +235,12 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Even nodes after odd in Linked list
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Node.png" alt="Node in LL" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Node.png" alt="Node in LL" width="800px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Reverse%20LL.png" alt="Reverse LL" width="400px"/>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/ReverseLL.PNG" alt="Reverse LL leetcode" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Reverse%20LL.png" alt="Reverse LL" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/ReverseLL.PNG" alt="Reverse LL leetcode" width="400px"/>
 </p>
 
 <p>
@@ -243,16 +249,16 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Leetcode%20LL%20odd%20even%20segregation.png" alt="Segregate odd and even node in LL leetcode" width="400px"/>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Segregate%20odd%20and%20even%20node%20in%20LL.png" alt="Segregate even and odd node in LL GFG" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Leetcode%20LL%20odd%20even%20segregation.png" alt="Segregate odd and even node in LL leetcode" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Segregate%20odd%20and%20even%20node%20in%20LL.png" alt="Segregate even and odd node in LL GFG" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Rearrange%20a%20linked%20list.png" alt="Rearrange LL GFG" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Rearrange%20a%20linked%20list.png" alt="Rearrange LL GFG" width="800px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/SinglyLL.png" alt="Singly Linked List code" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/SinglyLL.png" alt="Singly Linked List code" width="800px"/>
 </p>
 
 [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
@@ -278,12 +284,12 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day25-30/1%20Stock%20analysis.png" alt="Stock analysis" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/1%20Stock%20analysis.png" alt="Stock analysis" width="800px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day25-30/2%20Hackerrank%20Java%203%20star.png" alt="Hackerrank Java 3 star" width="400px"/>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day25-30/3%20Hackerrank%20Java%20Exception%20Handling.png" alt="Hackerrank Java Exception Handling" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/2%20Hackerrank%20Java%203%20star.png" alt="Hackerrank Java 3 star" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/3%20Hackerrank%20Java%20Exception%20Handling.png" alt="Hackerrank Java Exception Handling" width="400px"/>
 </p>
 
 ## Day 31
