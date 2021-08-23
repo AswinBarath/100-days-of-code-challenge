@@ -126,7 +126,7 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="400px"/>
 
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Area%20Graph%20Sensor%20Data.png" alt="Area graph sensor data" width="400px"/>
 
@@ -134,7 +134,7 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="400px"/>
 
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hackerrank%2010%20days%20of%20JS%20silver.png" alt="10 Days of JS" width="400px"/>
 </p>
@@ -307,7 +307,8 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 - Grasped the concepts of Lambda expressions in Java
 - Got the hang of Functional programming paradigm implemented in Java 8
-
+- Exercised converting methods into lambda expressions
+- Designed custom Functional interfaces to operate with lambdas
 
 ---
 
