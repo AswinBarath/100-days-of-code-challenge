@@ -244,8 +244,8 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/Middle%20Of%20LL.png" alt="Middle Of LL" width="400px"/>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/day21-24/MiddleOfLL.PNG" alt="Middle Of LL leetcode" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Middle%20Of%20LL.png" alt="Middle Of LL" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/MiddleOfLL.PNG" alt="Middle Of LL leetcode" width="400px"/>
 </p>
 
 <p>
