@@ -317,6 +317,15 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 [Trees Repo](https://github.com/AswinBarath/Trees)
 
+## Day 33
+
+- Refactored React hooks for JU Query project
+- Uncovered more about the Firebase platform
+
+Learn more about firebase from my blog posts:
+- [What is Firebase?](https://aswinbarath.github.io/What-is-Firebase/)
+- [Core Firebase Services](https://aswinbarath.github.io/Core-Firebase-services/)
+
 
 
 ---
