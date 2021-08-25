@@ -331,7 +331,7 @@ Learn more about firebase from my blog posts:
 
 - Deep dive into Firebase Firestore service
 - Built a real-time dynamic chat application
-- Fixed a production bug at public directory
+- Fixed a production bug in the public directory
 
 ---
 
