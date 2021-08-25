@@ -330,8 +330,14 @@ Learn more about firebase from my blog posts:
 ## Day 34
 
 - Deep dive into Firebase Firestore service
-- Built a real-time dynamic chat application
+- Built a real-time dynamic chat application using firebase
+- Deployed onto production using firebase hosting
 - Fixed a production bug in the public directory
+
+- Built a Image sharing application using firebase
+- Deployed onto production using firebase hosting
+
+
 
 ---
 
