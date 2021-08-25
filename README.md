@@ -325,8 +325,13 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 Learn more about firebase from my blog posts:
 - [What is Firebase?](https://aswinbarath.github.io/What-is-Firebase/)
 - [Core Firebase Services](https://aswinbarath.github.io/Core-Firebase-services/)
+- [Accessing Firebase Services](https://aswinbarath.github.io/Accessing-Firebase-services/)
 
+## Day 34
 
+- Deep dive into Firebase Firestore service
+- Built a real-time dynamic chat application
+- Fixed a production bug at public directory
 
 ---
 
