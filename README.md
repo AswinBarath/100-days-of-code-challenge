@@ -341,7 +341,7 @@ Learn more about firebase from my blog posts:
 
 - Practiced more on Lambda expressions using Java
 - Gained more knowledge about Built-in Functional Interfaces in Java
-- Learnt about default implementation in Functional Interfaces, new feature from Java 8 
+- Learnt about default implementation in Functional Interfaces, a new feature from Java 8 
 (This new feature was introduced to support new functional programming abilities from Java 8)
 
 
