@@ -337,6 +337,13 @@ Learn more about firebase from my blog posts:
 - Built a Image sharing application using firebase
 - Deployed onto production using firebase hosting
 
+## Day 35
+
+- Practiced more on Lambda expressions using Java
+- Gained more knowledge about Built-in Functional Interfaces in Java
+- Learnt about default implementation in Functional Interfaces, new feature from Java 8 
+(This new feature was introduced to support new functional programming abilities from Java 8)
+
 
 
 ---
