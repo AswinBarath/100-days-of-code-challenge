@@ -355,7 +355,13 @@ Learn more about firebase from my blog posts:
 ## Day 36
 
 - Practiced Lambda Expressions with Streams
-- Completed the Practical Java Development Course
+- Completed the Practical Java Development Course, this is what I learnt:
+	- The Collections Framework
+	- Generics
+	- Concurrency and Multithreading in Java
+	- Java Database Connectivity (JDBC)
+	- Lambda Expressions 
+	- The Stream API
 
 
 
