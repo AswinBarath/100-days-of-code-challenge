@@ -199,6 +199,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20debugging%20challenges%20100%20(2).png" alt="FCC JS debugging challenges 100 (2)" width="400px"/>
 </p>
 
+
 ## Day 21-24
 
 After solving various problems on Arrays, Strings and Hashmaps:
@@ -263,6 +264,7 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
+
 ## Day 25-30
 
 • Constructed a project - Stock Analysis using Java that employs the following ideas:
@@ -292,6 +294,7 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/3%20Hackerrank%20Java%20Exception%20Handling.png" alt="Hackerrank Java Exception Handling" width="400px"/>
 </p>
 
+
 ## Day 31
 
 - Executed a concurrent producer-consumer pattern using Java
@@ -302,6 +305,7 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Overview on Java Database Connectivity (JDBC)
 - Installed MySQL for Java
 - Connected a database using JDBC
+
 
 ## Day 32
 
@@ -317,6 +321,7 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 
 [Trees Repo](https://github.com/AswinBarath/Trees)
 
+
 ## Day 33
 
 - Refactored React hooks for JU Query project
@@ -326,6 +331,7 @@ Learn more about firebase from my blog posts:
 - [What is Firebase?](https://aswinbarath.github.io/What-is-Firebase/)
 - [Core Firebase Services](https://aswinbarath.github.io/Core-Firebase-services/)
 - [Accessing Firebase Services](https://aswinbarath.github.io/Accessing-Firebase-services/)
+
 
 ## Day 34
 
@@ -337,12 +343,20 @@ Learn more about firebase from my blog posts:
 - Built a Image sharing application using firebase
 - Deployed onto production using firebase hosting
 
+
 ## Day 35
 
 - Practiced more on Lambda expressions using Java
 - Gained more knowledge about Built-in Functional Interfaces in Java
 - Learnt about default implementation in Functional Interfaces, a new feature from Java 8 
 (This new feature was introduced to support new functional programming abilities from Java 8)
+
+
+## Day 36
+
+- Practiced Lambda Expressions with Streams
+- Completed the Practical Java Development Course
+
 
 
 
