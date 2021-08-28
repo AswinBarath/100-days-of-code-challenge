@@ -364,6 +364,10 @@ Learn more about firebase from my blog posts:
 	- The Stream API
 
 
+## Day 37
+
+- Solved Tree traversals: Inorder, Preorder, Postorder
+![Tree traversals on Leetcode](https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/Day%2037%20Tree%20traversals)
 
 
 ---
