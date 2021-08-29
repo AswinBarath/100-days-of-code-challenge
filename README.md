@@ -372,6 +372,14 @@ Learn more about firebase from my blog posts:
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/Day%2037%20Tree%20traversals.PNG" alt="Tree traversals on Leetcode" width="800px"/>
 </p>
 
+
+## Day 38
+
+- Getting started with Object-Oriented Design (OOD) and Low-level Design (LLD).
+- Revisited Objects, Methods and dependencies.
+- Learnt more about Dependency Association, Composition Association and Aggregation Association through Java coding examples.
+
+
 ---
 
 ## Contributors
