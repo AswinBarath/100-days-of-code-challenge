@@ -379,6 +379,16 @@ Learn more about firebase from my blog posts:
 - Revisited Objects, Methods and dependencies.
 - Learnt more about Dependency Association, Composition Association and Aggregation Association through Java coding examples.
 
+## Day39
+
+- Assessed my recursion skills in Java @HackerRank
+
+	- Solved: Recursive Digit Sum
+	- Solved: Fibonacci Numbers
+
+- Can you complete the challenge? 
+	- https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
+
 
 ---
 
