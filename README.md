@@ -379,7 +379,7 @@ Learn more about firebase from my blog posts:
 - Revisited Objects, Methods and dependencies.
 - Learnt more about Dependency Association, Composition Association and Aggregation Association through Java coding examples.
 
-## Day39
+## Day 39
 
 - Assessed my recursion skills in Java @HackerRank
 
