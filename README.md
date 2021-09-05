@@ -391,9 +391,14 @@ Learn more about firebase from my blog posts:
 
 ## Day 40
 
-- Back to basics by refactoring an project repository: Book Information
+- Back to basics by refactoring a project repository: Book Information
 - Resolved 4 issues from the project which include code refactoring, README update, and icon
-- Reviewed my pull requests and merged into the master branch
+- Reviewed my pull requests and merged them into the master branch
+- Updated the entire codebase with bootstrap design inputs
+- Complete directory restructure
+- Followed naming conventions and best practices
+- Well documented README
+- Project: https://github.com/AswinBarath/Book-Information
 - Here's the git history:
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day40.png" alt="Book information git history" width="800px"/>
