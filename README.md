@@ -389,6 +389,20 @@ Learn more about firebase from my blog posts:
 - Can you complete the challenge? 
 	- https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
 
+## Day 40
+
+- Back to basics by refactoring an project repository: Book Information
+- Resolved 4 issues from the project which include code refactoring, README update, and icon
+- Reviewed my pull requests and merged into the master branch
+- Here's the git history:
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day%2040.PNG" alt="Book information git history" width="800px"/>
+</p>
+- Checkout the project demo over here: 
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/Book%20Information.gif" alt="Book information Demo" width="800px"/>
+</p>
+
 
 ---
 
