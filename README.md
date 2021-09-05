@@ -396,7 +396,7 @@ Learn more about firebase from my blog posts:
 - Reviewed my pull requests and merged into the master branch
 - Here's the git history:
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day%2040.PNG" alt="Book information git history" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day40.PNG" alt="Book information git history" width="800px"/>
 </p>
 - Checkout the project demo over here: 
 <p>
