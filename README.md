@@ -409,6 +409,30 @@ Learn more about firebase from my blog posts:
 </p>
 
 
+## Day 41
+
+- Back to basics by refactoring the project repositories: Book Information 2.0, Robot Friend and Image portfolio
+- Resolved 14 issues from the projects which include code refactoring, README update, and demo
+- Reviewed my pull requests and merged them into the main branch
+- Updated the entire codebase with bootstrap design inputs
+- Complete directory restructure
+- Followed naming conventions and best practices
+- Well documented README
+- Here are the project links
+	- https://github.com/AswinBarath/Book-Information-2.0
+	- https://github.com/AswinBarath/robot-friend
+	- https://github.com/AswinBarath/Image-portfolio
+- Checkout the project demos over here: 
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/Book-Information-2.0/main/assets/Book%20Information.gif" alt="Book information 2.0 Demo" width="800px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/robot-friend/main/assets/Robot%20Friend.gif" alt="robot-friend Demo" width="800px"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/Image-portfolio/main/assets/Image%20Portfolio.gif" alt="Image-portfolio Demo" width="800px"/>
+</p>
+
 ---
 
 ## Contributors
