@@ -433,6 +433,21 @@ Learn more about firebase from my blog posts:
 <img src="https://raw.githubusercontent.com/AswinBarath/Image-portfolio/main/assets/Image%20Portfolio.gif" alt="Image-portfolio Demo" width="800px"/>
 </p>
 
+
+## Day 42
+
+- Solved JavaScript Strings and Arrays exercises from Front-end masters:
+
+	- [Exercise tweet 1](https://twitter.com/AswinBarath2/status/1435647332813393928?s=20)
+	- [Exercise tweet 2](https://twitter.com/AswinBarath2/status/1435657732607004673?s=20)
+
+## Day 43
+
+- Added Facebook OAuth feature to JU Query project
+- Fixed bugs and improved web-app performance
+- Refactored the React functional components
+
+
 ---
 
 ## Contributors
