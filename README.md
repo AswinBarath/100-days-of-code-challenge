@@ -447,6 +447,14 @@ Learn more about firebase from my blog posts:
 - Fixed bugs and improved web-app performance
 - Refactored the React functional components
 
+## Day 44
+
+- Fixed production bugs
+- Improved the design
+- Refactored the React components
+- gzipped the app for optimized production and deployed the bug fixes
+
+
 
 ---
 
