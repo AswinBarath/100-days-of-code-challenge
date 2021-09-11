@@ -455,6 +455,16 @@ Learn more about firebase from my blog posts:
 - gzipped the app for optimized production and deployed the bug fixes
 
 
+## Day 45
+
+- Learnt more about Binary Search and its importance
+- Gained new knowledge on optimization of Binary Search:
+	- Improvement in finding middle element
+	- Order-agnostic Binary Search
+- Repository:
+	- https://github.com/AswinBarath/Binary-Search
+
+
 
 ---
 
