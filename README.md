@@ -464,6 +464,12 @@ Learn more about firebase from my blog posts:
 - Repository:
 	- https://github.com/AswinBarath/Binary-Search
 
+## Day 46
+
+- Learning more about Functional Components in React
+- Started project-based learning through building LinkedIn clone:
+	- Set up and built the header components
+	- Worked on Sidebar components
 
 
 ---
