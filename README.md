@@ -462,7 +462,7 @@ Learn more about firebase from my blog posts:
 	- Improvement in finding middle element
 	- Order-agnostic Binary Search
 - Repository:
-	- https://github.com/AswinBarath/Binary-Search
+	- https://git.io/JuSnw
 
 ## Day 46
 
@@ -470,6 +470,15 @@ Learn more about firebase from my blog posts:
 - Started project-based learning through building LinkedIn clone:
 	- Set up and built the header components
 	- Worked on Sidebar components
+
+
+## Day 47
+
+- Solved 4 problems on Binary Search
+	- Repo: https://git.io/JuSnw
+
+- Refactored, Documented and Optimized 3 front-end projects
+	- Repo: https://git.io/JuSnD
 
 
 ---
