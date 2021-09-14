@@ -481,6 +481,16 @@ Learn more about firebase from my blog posts:
 	- Repo: https://git.io/JuSnD
 
 
+## Day 48
+
+- Solve 3 problems on Binary Search - Easy, Medium, Hard
+	- Peak index in Mountain array
+	- Find Peak Element
+	- Find in Mountain array
+
+- Repo: https://git.io/JuSnw
+
+
 ---
 
 ## Contributors
