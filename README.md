@@ -491,6 +491,12 @@ Learn more about firebase from my blog posts:
 - Repo: https://git.io/JuSnw
 
 
+## Day 49
+
+- Solved 10+ API based challenges using NodeJS and ExpressJS from freeCodeCamp
+
+- Repo: https://git.io/JuAl6
+
 ---
 
 ## Contributors
