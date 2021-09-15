@@ -495,7 +495,10 @@ Learn more about firebase from my blog posts:
 
 - Solved 10+ API based challenges using NodeJS and ExpressJS from freeCodeCamp
 
-- Repo: https://git.io/JuAl6
+	- GitHub Repository: https://git.io/JuAl6
+	- Always On Repl: https://replit.com/@ashwin26/nodejs-expressjs-scripts?v=1
+	- Live link: https://nodejs-expressjs-scripts.ashwin26.repl.co/
+
 
 ---
 
