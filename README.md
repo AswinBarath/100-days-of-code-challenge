@@ -500,6 +500,15 @@ Learn more about firebase from my blog posts:
 	- Live link: https://nodejs-expressjs-scripts.ashwin26.repl.co/
 
 
+## Day 50
+
+- Solved 3 problems on the topics Arrays, Hashing and Binary Search at Leetcode
+	
+	- Maximum Subarray
+	- Contains Duplicate
+	- Search in Rotated Sorted Array
+
+
 ---
 
 ## Contributors
