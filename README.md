@@ -509,6 +509,22 @@ Learn more about firebase from my blog posts:
 	- Search in Rotated Sorted Array
 
 
+## Day 51
+
+- Worked on 2 projects:
+	- Simplistic Login Microservice built with NodeJS & ExpressJS
+		- [GitHub Repo](https://git.io/JzTxW)
+		- [Live link](https://login-microservice-fcc.herokuapp.com)
+		- Optimized the project
+		- Documented the code and readme
+	- SQL injection which demonstrates attacks using malicious SQL queries
+		- [GitHub Repo](https://git.io/JzTN4)
+		- [Live link](https://sql-injection-and-prevention.herokuapp.com)
+		- Refactored the project
+		- Updated documentation
+
+
+
 ---
 
 ## Contributors
