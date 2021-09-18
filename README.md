@@ -523,6 +523,10 @@ Learn more about firebase from my blog posts:
 		- Refactored the project
 		- Updated documentation
 
+## Day 52
+
+- Solved 10 problems using 3 variations of Binary Search at LeetCode 
+
 
 
 ---
