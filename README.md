@@ -528,6 +528,14 @@ Learn more about firebase from my blog posts:
 - Solved 10 problems using 3 variations of Binary Search at LeetCode 
 
 
+## Day 53
+
+- Explored patterns in Dynamic Programming (DP) problems
+- Solved the problems similar to Fibonacci problem using DP:
+	- Climbing Stairs
+	- House Robber
+- Repository: [Dynamic-Programming](https://github.com/AswinBarath/Dynamic-Programming)
+
 
 ---
 
