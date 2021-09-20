@@ -537,6 +537,14 @@ Learn more about firebase from my blog posts:
 - Repository: [Dynamic-Programming](https://github.com/AswinBarath/Dynamic-Programming)
 
 
+## Day 54
+
+- Solved problems from 2 Dynamic Programming (DP) patterns:
+	- Min Cost Climbing Stairs
+	- Partition Equal Subset Sum
+- Repository: [Dynamic-Programming](https://github.com/AswinBarath/Dynamic-Programming)
+
+
 ---
 
 ## Contributors
