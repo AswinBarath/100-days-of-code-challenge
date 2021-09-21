@@ -40,6 +40,29 @@ Learn More and Join me!
 
 ---
 
+## Goals
+
+- [ ] Solve problems on using Data Structures and Algorithms
+- [ ] Learn Java 
+	- [ ] Core Concepts, 
+	- [ ] Object Oriented Programming, 
+	- [ ] Object-Oriented Design,
+	- [ ] Spring Framework
+- [ ] Learn Full-stack Development 
+	- JavaScript,
+	- ReactJS
+	- ReduxJS,
+	- Firebase,
+	- NodeJS,
+	- MongoDB
+- [ ] Build JU Query platform for university students
+- [ ] Build Web Developement projects
+- [ ] Build Python projects
+- [ ] Build IoT Projects
+
+
+---
+
 ## Day 1
 
 - Solved 6 frequently asked Interview Problems on Array Data Structure:
@@ -548,8 +571,8 @@ Learn more about firebase from my blog posts:
 ## Day 55
 
 - Solved problems on Linked lists based on 2 patterns:
-	- Reverse given Linked list
-	- Remove Nth Node from the end of list (Runner technique - also known as Tortoise-Hare)
+	- Reverse the given Linked list
+	- Remove Nth Node from the end of the list (Runner pattern - also known as Tortoise-Hare)
 - Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
 
 ---
