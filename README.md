@@ -49,12 +49,12 @@ Learn More and Join me!
 	- [ ] Object-Oriented Design,
 	- [ ] Spring Framework
 - [ ] Learn Full-stack Development 
-	- JavaScript,
-	- ReactJS
-	- ReduxJS,
-	- Firebase,
-	- NodeJS,
-	- MongoDB
+	- [ ] JavaScript,
+	- [ ] ReactJS
+	- [ ] ReduxJS,
+	- [ ] Firebase,
+	- [ ] NodeJS,
+	- [ ] MongoDB
 - [ ] Build JU Query platform for university students
 - [ ] Build Web Developement projects
 - [ ] Build Python projects
@@ -574,6 +574,18 @@ Learn more about firebase from my blog posts:
 	- Reverse the given Linked list
 	- Remove Nth Node from the end of the list (Runner pattern - also known as Tortoise-Hare)
 - Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day55/Day55 LL.PNG" alt="Day55 LL" width="600px"/>
+</p>
+
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day55/Day55 LL 1.png" alt="Day55 LL 1" width="400px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day55/Day55 LL 2_2.png" alt="Day55 LL 2_2" width="400px"/>
+</p>
+
 
 ---
 
