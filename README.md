@@ -545,6 +545,13 @@ Learn more about firebase from my blog posts:
 - Repository: [Dynamic-Programming](https://github.com/AswinBarath/Dynamic-Programming)
 
 
+## Day 55
+
+- Solved problems on Linked lists based on 2 patterns:
+	- Reverse given Linked list
+	- Remove Nth Node from the end of list (Runner technique - also known as Tortoise-Hare)
+- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+
 ---
 
 ## Contributors
