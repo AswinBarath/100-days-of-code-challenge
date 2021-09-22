@@ -587,6 +587,29 @@ Learn more about firebase from my blog posts:
 </p>
 
 
+## Day 56
+
+- Solved 3 problems on Linked lists:
+	- Delete a node in a linked list
+	- Add two numbers I & II
+- Refactored the Java Packages, Formatted the code, and fixed all of the bugs
+- Generated a self sustaining template for all Linked lists problems through templates
+- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day56/LeetcodeDay56.PNG" alt="Day56 LL" width="800px"/>
+</p>
+
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day56/Delete a node in a linked list.png" alt="Day56 LL 1" width="300px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day56/Add two numbers.png" alt="Day56 LL 2" width="250px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day56/Add two numbers ii.png" alt="Day56 LL 3" width="250px"/>
+</p>
+
+
+
 ---
 
 ## Contributors
