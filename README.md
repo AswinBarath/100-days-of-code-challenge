@@ -593,7 +593,7 @@ Learn more about firebase from my blog posts:
 	- Delete a node in a linked list
 	- Add two numbers I & II
 - Refactored the Java Packages, Formatted the code, and fixed all of the bugs
-- Generated a self sustaining template for all Linked lists problems through templates
+- Generated self-sustaining templates for problems
 - Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
 
 
