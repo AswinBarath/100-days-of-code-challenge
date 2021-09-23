@@ -573,7 +573,7 @@ Learn more about firebase from my blog posts:
 - Solved problems on Linked lists based on 2 patterns:
 	- Reverse the given Linked list
 	- Remove Nth Node from the end of the list (Runner pattern - also known as Tortoise-Hare)
-- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+- Repository: [Linked-lists](https://git.io/Jz4T7)
 
 
 <p>
@@ -594,7 +594,7 @@ Learn more about firebase from my blog posts:
 	- Add two numbers I & II
 - Refactored the Java Packages, Formatted the code, and fixed all of the bugs
 - Generated self-sustaining templates for problems
-- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+- Repository: [Linked-lists](https://git.io/Jz4T7)
 
 
 <p>
@@ -616,7 +616,7 @@ Learn more about firebase from my blog posts:
 	- Merge Two Sorted Lists
 	- Return Kth Node From End of List
 - Added more packages and documentation
-- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+- Repository: [Linked-lists](https://git.io/Jz4T7)
 
 
 ---
