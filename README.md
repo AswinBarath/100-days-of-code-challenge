@@ -609,6 +609,15 @@ Learn more about firebase from my blog posts:
 </p>
 
 
+## Day 57
+
+- Solved 3 problems on Linked Lists:
+	- Remove Linked List Elements
+	- Merge Two Sorted Lists
+	- Return Kth Node From End of List
+- Added more packages and documentation
+- Repository: [Linked-lists](https://github.com/AswinBarath/Linked-lists)
+
 
 ---
 
