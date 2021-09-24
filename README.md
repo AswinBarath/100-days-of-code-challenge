@@ -619,6 +619,14 @@ Learn more about firebase from my blog posts:
 - Repository: [Linked-lists](https://git.io/Jz4T7)
 
 
+## Day 58
+
+- Updated the configuration in the JavaScript Repos:
+	- authenticated-todo-app
+	- nest-js-api
+- Added more Python Challenges on various topics such as:
+	- data structures, map, lambda,filter, zip, reduce, decorators, generators, file handling & exception handling
+
 ---
 
 ## Contributors
