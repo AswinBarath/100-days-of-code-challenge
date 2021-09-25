@@ -633,7 +633,7 @@ Learn more about firebase from my blog posts:
 
 - Built an Event timeline web app for Codecademy JU Chapter Community
 - Deployed the web app on top of Repl it using NodeJS and ExpressJS
-- [Event Timeline web app](https://event-timeline.ashwin26.repl.co/)
+- [Event Timeline web app](https://community.codecademy.com/jain-university-ju/)
 - [Join Codecademy JU Chapter](https://event-timeline.ashwin26.repl.co/)
 - [GitHub Repository](https://github.com/AswinBarath/Event-Timeline)
 - Web App Demo
