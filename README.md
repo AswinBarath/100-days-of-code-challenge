@@ -626,6 +626,18 @@ Learn more about firebase from my blog posts:
 	- nest-js-api
 - Added more Python Challenges on various topics such as:
 	- data structures, map, lambda,filter, zip, reduce, decorators, generators, file handling & exception handling
+- [Python programming challenges](https://github.com/AswinBarath/Python-challenges)
+
+
+## Day 59
+
+- Built an Event timeline web app for Codecademy JU Chapter Community
+- Deployed the web app on top of Repl it using NodeJS and ExpressJS
+- [Event Timeline web app](https://event-timeline.ashwin26.repl.co/)
+- [Join Codecademy JU Chapter](https://event-timeline.ashwin26.repl.co/)
+- [GitHub Repository](https://github.com/AswinBarath/Event-Timeline)
+
+
 
 ---
 
