@@ -639,7 +639,7 @@ Learn more about firebase from my blog posts:
 - Web App Demo
 
 <p>
-<img src="assets/Event Timeline.gif" alt="Event Timeline" />
+<img src="./assets/Event Timeline.gif" alt="Event Timeline" />
 </p>
 
 
