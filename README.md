@@ -636,7 +636,11 @@ Learn more about firebase from my blog posts:
 - [Event Timeline web app](https://event-timeline.ashwin26.repl.co/)
 - [Join Codecademy JU Chapter](https://event-timeline.ashwin26.repl.co/)
 - [GitHub Repository](https://github.com/AswinBarath/Event-Timeline)
+- Web App Demo
 
+<p>
+<img src="assets/Event Timeline.gif" alt="Event Timeline" />
+</p>
 
 
 ---
