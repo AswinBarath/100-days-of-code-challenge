@@ -643,6 +643,13 @@ Learn more about firebase from my blog posts:
 </p>
 
 
+## Day 60
+
+- Continued project-based learning through building Tesla clone:
+	- Set up and built the homepage component
+	- Worked on Section components for reusability
+- [Repository](https://github.com/AswinBarath/tesla-clone)
+
 ---
 
 ## Contributors
