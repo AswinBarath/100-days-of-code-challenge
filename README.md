@@ -650,6 +650,13 @@ Learn more about firebase from my blog posts:
 	- Worked on Section components for reusability
 - [Repository](https://github.com/AswinBarath/tesla-clone)
 
+## Day 61
+
+- Added Header component in the React Tesla Clone App
+- Used Hamburger Menu from Material UI
+- Applied media-queries for Dynamic display.
+- [Repository](https://github.com/AswinBarath/tesla-clone)
+
 ---
 
 ## Contributors
