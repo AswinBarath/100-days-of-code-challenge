@@ -43,12 +43,12 @@ Learn More and Join me!
 ## Goals
 
 - [ ] Solve problems on using Data Structures and Algorithms
-	- [ ] Arrays
+	- [ ] Arrays - [Day 1](https://github.com/AswinBarath/100-days-of-code-challenge#day-1), [Day 2](https://github.com/AswinBarath/100-days-of-code-challenge#day-2), [Day 3](https://github.com/AswinBarath/100-days-of-code-challenge#day-3)
 	- [ ] Strings
-	- [ ] HashMaps
+	- [ ] HashMaps - [Day 4](https://github.com/AswinBarath/100-days-of-code-challenge#day-4)
 	- [ ] Stacks
 	- [ ] Queues
-	- [ ] Linked Lists
+	- [ ] Linked Lists - [](), [](), [Day 55](https://github.com/AswinBarath/100-days-of-code-challenge#day-55), [Day 56](https://github.com/AswinBarath/100-days-of-code-challenge#day-56), [Day 57](https://github.com/AswinBarath/100-days-of-code-challenge#day-57)
 	- [ ] Trees 
 	- [ ] Graphs
 	- [ ] Heaps
@@ -62,12 +62,12 @@ Learn More and Join me!
 		- [ ] Quick Sort
 	- [ ] Searching
 		- [ ] Linear Search
-		- [ ] Binary Search
+		- [ ] Binary Search - [Day 52](#day-52), [Day 62](https://github.com/AswinBarath/100-days-of-code-challenge#day-62)
 		- [ ] BFS
 		- [ ] DFS
 	- [ ] Recursion
 	- [ ] Backtracking
-	- [ ] Dynamic Programming
+	- [ ] Dynamic Programming - [Day 53](https://github.com/AswinBarath/100-days-of-code-challenge#day-53), [Day 54](https://github.com/AswinBarath/100-days-of-code-challenge#day-54)
 	- [ ] Bit Manipulation
 - [ ] Learn Java 
 	- [x] Core Concepts, 
@@ -97,8 +97,11 @@ Learn More and Join me!
 	- [ ] Add ML recommendation engine component
 	- [ ] Create Admin Dashboard
 - [ ] Build Web Developement projects
-	- [ ] Build Vanilla JavaScript Projects
+	- [ ] Build Vanilla JavaScript Projects - [](), [Day 58](https://github.com/AswinBarath/100-days-of-code-challenge#day-58)
 	- [ ] Build ReactJS Web Apps
+		- [x] Build a Portfolio Website - [Day 7](https://github.com/AswinBarath/100-days-of-code-challenge#day-7)
+		- [ ] Build a LinkedIn Clone - [Day 46](https://github.com/AswinBarath/100-days-of-code-challenge#day-46)
+		- [ ] Build a Tesle Landing Page Clone - [Day 61](https://github.com/AswinBarath/100-days-of-code-challenge#day-60), [Day 61](https://github.com/AswinBarath/100-days-of-code-challenge#day-61)
 	- [ ] Build NodeJS Microservices
 	- [ ] Build Full-stack Apps
 	- [ ] Build React Native Apps
@@ -106,8 +109,9 @@ Learn More and Join me!
 	- [ ] Build Chrome Extensions
 	- [ ] Build and deploy ML models on top of Web Apps
 	- [ ] Build Blockchain based Apps
+- [ ] Solve Python Challenges - [Day 5](https://github.com/AswinBarath/100-days-of-code-challenge#day-5), [Day 58](https://github.com/AswinBarath/100-days-of-code-challenge#day-58)
 - [ ] Build Python projects
-	- [ ] Build Web Scrappers
+	- [ ] Build Web Scrappers - [Day 6](https://github.com/AswinBarath/100-days-of-code-challenge#day-6)
 	- [ ] Build Python Scripts
 	- [ ] Build Automation Scripts and Tests
 	- [ ] Build Flask apps
@@ -123,6 +127,8 @@ Learn More and Join me!
 	- [ ] Build Python oriented projects
 	- [ ] Build Cloud oriented projects
 	- [ ] Build API oriented projects
+- [ ] Build Community Projects
+	- [x] Build a Event Timeline Page - [Day 59](https://github.com/AswinBarath/100-days-of-code-challenge#day-59)
 
 ---
 
