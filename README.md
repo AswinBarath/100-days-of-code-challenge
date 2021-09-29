@@ -43,12 +43,12 @@ Learn More and Join me!
 ## Goals
 
 - [ ] Solve problems on using Data Structures and Algorithms
-	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 50](#day-50)
-	- [ ] Strings
-	- [ ] HashMaps - [Day 4](#day-4), [Day 50](#day-50)
-	- [ ] Stacks
+	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 21-24](#day-21-24), [Day 50](#day-50)
+	- [ ] Strings - [Day 21-24](#day-21-24)
+	- [ ] HashMaps - [Day 4](#day-4), [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 21-24](#day-21-24), [Day 50](#day-50)
+	- [ ] Stacks - [Day 8-14](#day-8-14), [Day 60](#day-60)
 	- [ ] Queues
-	- [ ] Linked Lists - [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57)
+	- [ ] Linked Lists - [Day 21-24](#day-21-24), [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57)
 	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37)
 	- [ ] Graphs
 	- [ ] Heaps
@@ -70,13 +70,13 @@ Learn More and Join me!
 	- [ ] Dynamic Programming - [Day 53](#day-53), [Day 54](#day-54)
 	- [ ] Bit Manipulation
 - [ ] Learn Java 
-	- [x] Core Concepts, - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
+	- [x] Core Concepts, - [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 25-30](#day-25-30) [Day 31](#day-31), [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 	- [x] Collections Framework
-	- [x] Object Oriented Programming, 
+	- [x] Object Oriented Programming, [Day 8-14](#day-8-14)
 	- [ ] Object-Oriented Design, - [Day 38](#day-38)
-	- [ ] Spring Framework
+	- [ ] Spring Framework - [Day 8-14](#day-8-14)
 - [ ] Learn Full-stack Development 
-	- [ ] JavaScript, - [Day 42](#day-42)
+	- [ ] JavaScript, - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
 	- [ ] ReactJS, - [Day 46](#day-46)
 	- [ ] ReduxJS,
 	- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
@@ -119,7 +119,7 @@ Learn More and Join me!
 	- [ ] Build Flask apps
 	- [ ] Build Basic ML Models
 	- [ ] Build Data Visualizations
-- [ ] Build IoT Projects
+- [ ] Build IoT Projects - [Day 8-14](#day-8-14)
 	- [ ] Build Single Sensor projects
 	- [ ] Build Data collections
 	- [ ] Build Multi Sensor projects
@@ -716,6 +716,12 @@ Learn more about firebase from my blog posts:
 
 ## Day 60
 
+- Implemented the Stack Data Structure in 4 ways:
+	- Stack Implementation using Arrays
+	- Generic Stack Implementation
+	- Stack Implementation using Linked Lists
+	- Stack in Collections Framework
+- [Stacks Repository](https://github.com/AswinBarath/Stacks)
 - Continued project-based learning through building Tesla clone:
 	- Set up and built the homepage component
 	- Worked on Section components for reusability
