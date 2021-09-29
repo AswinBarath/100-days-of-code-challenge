@@ -650,12 +650,23 @@ Learn more about firebase from my blog posts:
 	- Worked on Section components for reusability
 - [Repository](https://github.com/AswinBarath/tesla-clone)
 
+
 ## Day 61
 
 - Added Header component in the Tesla React Clone App
 - Used Hamburger Menu from Material UI
 - Applied media-queries for Dynamic display.
 - [Repository](https://github.com/AswinBarath/tesla-clone)
+
+
+## Day 62
+
+- Solved a couple of problems on Binary Search
+- Structured the problems into 3 templates of Binary Search
+- Documented a list of Easy, Medium and Hard problems from the same topic
+- Repo: https://git.io/JuSnw
+
+
 
 ---
 
