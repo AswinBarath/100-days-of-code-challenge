@@ -43,13 +43,13 @@ Learn More and Join me!
 ## Goals
 
 - [ ] Solve problems on using Data Structures and Algorithms
-	- [ ] Arrays - [Day 1](https://github.com/AswinBarath/100-days-of-code-challenge#day-1), [Day 2](https://github.com/AswinBarath/100-days-of-code-challenge#day-2), [Day 3](https://github.com/AswinBarath/100-days-of-code-challenge#day-3)
+	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 50](#day-50)
 	- [ ] Strings
-	- [ ] HashMaps - [Day 4](https://github.com/AswinBarath/100-days-of-code-challenge#day-4)
+	- [ ] HashMaps - [Day 4](#day-4), [Day 50](#day-50)
 	- [ ] Stacks
 	- [ ] Queues
-	- [ ] Linked Lists - [](), [](), [Day 55](https://github.com/AswinBarath/100-days-of-code-challenge#day-55), [Day 56](https://github.com/AswinBarath/100-days-of-code-challenge#day-56), [Day 57](https://github.com/AswinBarath/100-days-of-code-challenge#day-57)
-	- [ ] Trees 
+	- [ ] Linked Lists - [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57)
+	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37)
 	- [ ] Graphs
 	- [ ] Heaps
 	- [ ] Tries
@@ -62,30 +62,30 @@ Learn More and Join me!
 		- [ ] Quick Sort
 	- [ ] Searching
 		- [ ] Linear Search
-		- [ ] Binary Search - [Day 52](#day-52), [Day 62](https://github.com/AswinBarath/100-days-of-code-challenge#day-62)
+		- [ ] Binary Search - [Day 45](#day-45), [Day 47](#day-47), [Day 48](#day-48), [Day 50](#day-50), [Day 52](#day-52), [Day 62](#day-62)
 		- [ ] BFS
 		- [ ] DFS
-	- [ ] Recursion
+	- [ ] Recursion - [Day 39](#day-39)
 	- [ ] Backtracking
-	- [ ] Dynamic Programming - [Day 53](https://github.com/AswinBarath/100-days-of-code-challenge#day-53), [Day 54](https://github.com/AswinBarath/100-days-of-code-challenge#day-54)
+	- [ ] Dynamic Programming - [Day 53](#day-53), [Day 54](#day-54)
 	- [ ] Bit Manipulation
 - [ ] Learn Java 
-	- [x] Core Concepts, 
+	- [x] Core Concepts, - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 	- [x] Collections Framework
 	- [x] Object Oriented Programming, 
-	- [ ] Object-Oriented Design,
+	- [ ] Object-Oriented Design, - [Day 38](#day-38)
 	- [ ] Spring Framework
 - [ ] Learn Full-stack Development 
-	- [ ] JavaScript,
-	- [ ] ReactJS,
+	- [ ] JavaScript, - [Day 42](#day-42)
+	- [ ] ReactJS, - [Day 46](#day-46)
 	- [ ] ReduxJS,
-	- [ ] Firebase,
-	- [ ] NodeJS,
+	- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
+	- [ ] NodeJS, - [Day 49](#day-49)
 	- [ ] MongoDB
-- [ ] Build JU Query platform for university students
+- [ ] Build JU Query platform for university students - [Day 43](#day-43), [Day 44](#day-44)
 	- [ ] Add Authentication components
 		- [x] Google OAuth
-		- [x] Facebook OAuth
+		- [x] Facebook OAuth - [Day 43](#day-43)
 	- [ ] Homepage components
 		- [x] Add Query component
 		- [x] Answer Query component
@@ -97,21 +97,23 @@ Learn More and Join me!
 	- [ ] Add ML recommendation engine component
 	- [ ] Create Admin Dashboard
 - [ ] Build Web Developement projects
-	- [ ] Build Vanilla JavaScript Projects - [](), [Day 58](https://github.com/AswinBarath/100-days-of-code-challenge#day-58)
+	- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
 	- [ ] Build ReactJS Web Apps
-		- [x] Build a Portfolio Website - [Day 7](https://github.com/AswinBarath/100-days-of-code-challenge#day-7)
-		- [ ] Build a LinkedIn Clone - [Day 46](https://github.com/AswinBarath/100-days-of-code-challenge#day-46)
-		- [ ] Build a Tesle Landing Page Clone - [Day 61](https://github.com/AswinBarath/100-days-of-code-challenge#day-60), [Day 61](https://github.com/AswinBarath/100-days-of-code-challenge#day-61)
+		- [x] Build a Portfolio Website - [Day 7](#day-7)
+		- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
+		- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61)
 	- [ ] Build NodeJS Microservices
+		- [x] Login Microservice - [Day 51](#day-51)
 	- [ ] Build Full-stack Apps
+		- [x] SQL Injection - [Day 51](#day-51)
 	- [ ] Build React Native Apps
 	- [ ] Build Electron Apps
 	- [ ] Build Chrome Extensions
 	- [ ] Build and deploy ML models on top of Web Apps
 	- [ ] Build Blockchain based Apps
-- [ ] Solve Python Challenges - [Day 5](https://github.com/AswinBarath/100-days-of-code-challenge#day-5), [Day 58](https://github.com/AswinBarath/100-days-of-code-challenge#day-58)
+- [ ] Solve Python Challenges - [Day 5](#day-5), [Day 58](#day-58)
 - [ ] Build Python projects
-	- [ ] Build Web Scrappers - [Day 6](https://github.com/AswinBarath/100-days-of-code-challenge#day-6)
+	- [ ] Build Web Scrappers - [Day 6](#day-6)
 	- [ ] Build Python Scripts
 	- [ ] Build Automation Scripts and Tests
 	- [ ] Build Flask apps
@@ -128,7 +130,7 @@ Learn More and Join me!
 	- [ ] Build Cloud oriented projects
 	- [ ] Build API oriented projects
 - [ ] Build Community Projects
-	- [x] Build a Event Timeline Page - [Day 59](https://github.com/AswinBarath/100-days-of-code-challenge#day-59)
+	- [x] Build a Event Timeline Page - [Day 59](#day-59)
 
 ---
 
