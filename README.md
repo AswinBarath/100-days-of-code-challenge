@@ -43,23 +43,86 @@ Learn More and Join me!
 ## Goals
 
 - [ ] Solve problems on using Data Structures and Algorithms
+	- [ ] Arrays
+	- [ ] Strings
+	- [ ] HashMaps
+	- [ ] Stacks
+	- [ ] Queues
+	- [ ] Linked Lists
+	- [ ] Trees 
+	- [ ] Graphs
+	- [ ] Heaps
+	- [ ] Tries
+	- [ ] Sorting
+		- [ ] Insertion Sort
+		- [ ] Selection Sort
+		- [ ] Bubble Sort
+		- [ ] Count Sort
+		- [ ] Merge Sort
+		- [ ] Quick Sort
+	- [ ] Searching
+		- [ ] Linear Search
+		- [ ] Binary Search
+		- [ ] BFS
+		- [ ] DFS
+	- [ ] Recursion
+	- [ ] Backtracking
+	- [ ] Dynamic Programming
+	- [ ] Bit Manipulation
 - [ ] Learn Java 
-	- [ ] Core Concepts, 
-	- [ ] Object Oriented Programming, 
+	- [x] Core Concepts, 
+	- [x] Collections Framework
+	- [x] Object Oriented Programming, 
 	- [ ] Object-Oriented Design,
 	- [ ] Spring Framework
 - [ ] Learn Full-stack Development 
 	- [ ] JavaScript,
-	- [ ] ReactJS
+	- [ ] ReactJS,
 	- [ ] ReduxJS,
 	- [ ] Firebase,
 	- [ ] NodeJS,
 	- [ ] MongoDB
 - [ ] Build JU Query platform for university students
+	- [ ] Add Authentication components
+		- [x] Google OAuth
+		- [x] Facebook OAuth
+	- [ ] Homepage components
+		- [x] Add Query component
+		- [x] Answer Query component
+		- [x] Show Answer component
+	- [ ] Topic-specific components
+	- [ ] User Profile components
+	- [ ] Create Event specific components
+	- [ ] Create User and Admin Roles
+	- [ ] Add ML recommendation engine component
+	- [ ] Create Admin Dashboard
 - [ ] Build Web Developement projects
+	- [ ] Build Vanilla JavaScript Projects
+	- [ ] Build ReactJS Web Apps
+	- [ ] Build NodeJS Microservices
+	- [ ] Build Full-stack Apps
+	- [ ] Build React Native Apps
+	- [ ] Build Electron Apps
+	- [ ] Build Chrome Extensions
+	- [ ] Build and deploy ML models on top of Web Apps
+	- [ ] Build Blockchain based Apps
 - [ ] Build Python projects
+	- [ ] Build Web Scrappers
+	- [ ] Build Python Scripts
+	- [ ] Build Automation Scripts and Tests
+	- [ ] Build Flask apps
+	- [ ] Build Basic ML Models
+	- [ ] Build Data Visualizations
 - [ ] Build IoT Projects
-
+	- [ ] Build Single Sensor projects
+	- [ ] Build Data collections
+	- [ ] Build Multi Sensor projects
+	- [ ] Build ML oriented projects
+	- [ ] Build Visualizations
+	- [ ] Build Social Media of Things
+	- [ ] Build Python oriented projects
+	- [ ] Build Cloud oriented projects
+	- [ ] Build API oriented projects
 
 ---
 
@@ -664,7 +727,7 @@ Learn more about firebase from my blog posts:
 - Solved a couple of problems on Binary Search
 - Structured the problems into 3 templates of Binary Search
 - Documented a list of Easy, Medium and Hard problems from the same topic
-- Repo: https://git.io/JuSnw
+- Repository: https://git.io/JuSnw
 
 
 
