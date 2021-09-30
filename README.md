@@ -42,7 +42,31 @@ Learn More and Join me!
 
 ## Goals
 
-- [ ] Solve problems on using Data Structures and Algorithms
+- [Learn Java](#learn-java)
+- [Learn Advanced Full-stack Development](#learn-advanced-full-stack-development)
+- [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
+- [Solve Python Challenges](#solve-python-challenges)
+- [Build JU Query platform for university students](#build-ju-query-platform-for-university-students)
+- [Build Web Developement projects](#build-web-developement-projects)
+- [Build Python projects](#build-python-projects)
+- [Build IoT Projects](#build-iot-projects)
+- [Build Community Projects](#build-community-projects)
+
+---
+
+### Learn Java 
+
+- [x] Core Concepts, - [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 25-30](#day-25-30) [Day 31](#day-31), [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
+- [x] Collections Framework
+- [x] Object Oriented Programming, [Day 8-14](#day-8-14)
+- [ ] Object-Oriented Design, - [Day 38](#day-38)
+- [ ] Spring Framework - [Day 8-14](#day-8-14)
+
+---
+
+### Solve problems on Data Structures and Algorithms
+
+- [ ] Data Structures
 	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 21-24](#day-21-24), [Day 50](#day-50)
 	- [ ] Strings - [Day 21-24](#day-21-24)
 	- [ ] HashMaps - [Day 4](#day-4), [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 21-24](#day-21-24), [Day 50](#day-50)
@@ -53,6 +77,8 @@ Learn More and Join me!
 	- [ ] Graphs
 	- [ ] Heaps
 	- [ ] Tries
+
+- [ ] Algorithms
 	- [ ] Sorting
 		- [ ] Insertion Sort
 		- [ ] Selection Sort
@@ -69,20 +95,22 @@ Learn More and Join me!
 	- [ ] Backtracking
 	- [ ] Dynamic Programming - [Day 53](#day-53), [Day 54](#day-54)
 	- [ ] Bit Manipulation
-- [ ] Learn Java 
-	- [x] Core Concepts, - [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 25-30](#day-25-30) [Day 31](#day-31), [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
-	- [x] Collections Framework
-	- [x] Object Oriented Programming, [Day 8-14](#day-8-14)
-	- [ ] Object-Oriented Design, - [Day 38](#day-38)
-	- [ ] Spring Framework - [Day 8-14](#day-8-14)
-- [ ] Learn Full-stack Development 
-	- [ ] JavaScript, - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
-	- [ ] ReactJS, - [Day 46](#day-46)
-	- [ ] ReduxJS,
-	- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
-	- [ ] NodeJS, - [Day 49](#day-49)
-	- [ ] MongoDB
-- [ ] Build JU Query platform for university students - [Day 43](#day-43), [Day 44](#day-44)
+	- [ ] Mathematical problems
+
+---
+
+### Learn Advanced Full-stack Development 
+- [ ] JavaScript, - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
+- [ ] ReactJS, - [Day 46](#day-46)
+- [ ] ReduxJS,
+- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
+- [ ] NodeJS, - [Day 49](#day-49)
+- [ ] MongoDB
+
+---
+
+### Build JU Query platform for university students
+- [ ] JU Query Features - [Day 43](#day-43), [Day 44](#day-44)
 	- [ ] Add Authentication components
 		- [x] Google OAuth
 		- [x] Facebook OAuth - [Day 43](#day-43)
@@ -96,41 +124,63 @@ Learn More and Join me!
 	- [ ] Create User and Admin Roles
 	- [ ] Add ML recommendation engine component
 	- [ ] Create Admin Dashboard
-- [ ] Build Web Developement projects
-	- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
-	- [ ] Build ReactJS Web Apps
-		- [x] Build a Portfolio Website - [Day 7](#day-7)
-		- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
-		- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61)
-	- [ ] Build NodeJS Microservices
-		- [x] Login Microservice - [Day 51](#day-51)
-	- [ ] Build Full-stack Apps
-		- [x] SQL Injection - [Day 51](#day-51)
-	- [ ] Build React Native Apps
-	- [ ] Build Electron Apps
-	- [ ] Build Chrome Extensions
-	- [ ] Build and deploy ML models on top of Web Apps
-	- [ ] Build Blockchain based Apps
-- [ ] Solve Python Challenges - [Day 5](#day-5), [Day 58](#day-58)
-- [ ] Build Python projects
-	- [ ] Build Web Scrappers - [Day 6](#day-6)
-	- [ ] Build Python Scripts
-	- [ ] Build Automation Scripts and Tests
-	- [ ] Build Flask apps
-	- [ ] Build Basic ML Models
-	- [ ] Build Data Visualizations
-- [ ] Build IoT Projects - [Day 8-14](#day-8-14)
-	- [ ] Build Single Sensor projects
-	- [ ] Build Data collections
-	- [ ] Build Multi Sensor projects
-	- [ ] Build ML oriented projects
-	- [ ] Build Visualizations
-	- [ ] Build Social Media of Things
-	- [ ] Build Python oriented projects
-	- [ ] Build Cloud oriented projects
-	- [ ] Build API oriented projects
-- [ ] Build Community Projects
-	- [x] Build a Event Timeline Page - [Day 59](#day-59)
+
+---
+
+### Build Web Developement projects
+- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
+	- [x] Event Timeline Page - [Day 59](#day-59)
+- [ ] Build ReactJS Web Apps
+	- [x] Build a Portfolio Website - [Day 7](#day-7)
+	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
+	- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61)
+- [ ] Build NodeJS Microservices
+	- [x] Login Microservice - [Day 51](#day-51)
+	- [x] Event Timeline Page - [Day 59](#day-59)
+- [ ] Build Full-stack Apps
+	- [x] SQL Injection - [Day 51](#day-51)
+- [ ] Build React Native Apps
+- [ ] Build Electron Apps
+- [ ] Build Chrome Extensions
+- [ ] Build and deploy ML models on top of Web Apps
+- [ ] Build Blockchain based Apps
+
+---
+
+### Solve Python Challenges 
+- [Day 5](#day-5), [Day 58](#day-58)
+
+---
+
+### Build Python projects
+
+- [ ] Build Web Scrappers - [Day 6](#day-6)
+- [ ] Build Python Scripts
+- [ ] Build Automation Scripts and Tests
+- [ ] Build Flask apps
+- [ ] Build Basic ML Models
+- [ ] Build Data Visualizations
+
+---
+
+### Build IoT Projects
+
+- [ ] Build Single Sensor projects
+	- [x] Eco Monitor - Light Intensity Sensor project - [Day 8-14](#day-8-14)
+- [ ] Build Data collections
+- [ ] Build Multi Sensor projects
+- [ ] Build ML oriented projects
+- [ ] Build Visualizations
+	- [x] Eco Monitor - Visualizations of Sensor data - [Day 8-14](#day-8-14)
+- [ ] Build Social Media of Things
+- [ ] Build Python oriented projects
+- [ ] Build Cloud oriented projects
+- [ ] Build API oriented projects
+
+---
+
+### Build Community Projects
+- [x] Event Timeline Page - [Day 59](#day-59)
 
 ---
 
