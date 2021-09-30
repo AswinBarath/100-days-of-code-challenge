@@ -42,7 +42,7 @@ Learn More and Join me!
 
 ## Goals
 
-- [Learn Java](#learn-java)
+- [Learn Software Development with Java](#learn-software-development-with-java)
 - [Learn Advanced Full-stack Development](#learn-advanced-full-stack-development)
 - [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
 - [Solve Python Challenges](#solve-python-challenges)
@@ -54,13 +54,22 @@ Learn More and Join me!
 
 ---
 
-### Learn Java 
+### Learn Software Development with Java 
 
-- [x] Core Concepts, - [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 25-30](#day-25-30) [Day 31](#day-31), [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
-- [x] Collections Framework
-- [x] Object Oriented Programming, [Day 8-14](#day-8-14)
-- [ ] Object-Oriented Design, - [Day 38](#day-38)
+- [x] Java Core Concepts
+	- [x] Object Oriented Programming in Java - [Day 8-14](#day-8-14)
+	- [x] Collections Framework - [Day 25-30](#day-25-30)
+	- [x] Generics - [Day 25-30](#day-25-30)
+	- [x] File Handling - [Day 25-30](#day-25-30)
+	- [x] Exception Handling - [Day 25-30](#day-25-30)
+	- [x] Concurrency and Multi-Threading - [Day 25-30](#day-25-30)
+	- [x] JDBC - [Day 31](#day-31)
+	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
+- [ ] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
+- [ ] Object-Oriented Design - [Day 38](#day-38)
+- [ ] Design Patterns
 - [ ] Spring Framework - [Day 8-14](#day-8-14)
+- [ ] Big Data & Machine Learning using Apache Spark
 
 ---
 
