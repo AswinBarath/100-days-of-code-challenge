@@ -803,6 +803,17 @@ Learn more about firebase from my blog posts:
 - Repository: https://git.io/JuSnw
 
 
+## Day 63
+
+- Built a Joke Teller web app using
+	- JokeAPI (RESTful)
+	- Text-to-Speech API (VoiceRSS)
+- [Repository](https://git.io/JgyzX)
+- [Deployed Link](https://aswinbarath.github.io/Joke-teller/)
+
+- Updated Arrays data structure repository
+- [Repository](https://git.io/Jgyg0)
+
 
 ---
 
