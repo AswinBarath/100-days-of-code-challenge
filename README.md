@@ -815,6 +815,12 @@ Learn more about firebase from my blog posts:
 - [Repository](https://git.io/Jgyg0)
 
 
+## Day 64
+
+- Solved 2 problems using Java in Brute force and Optimal ways
+- Solved Convert 1D Array Into 2D Array from LeetCode Contest
+
+
 ---
 
 ## Contributors
