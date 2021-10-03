@@ -817,8 +817,17 @@ Learn more about firebase from my blog posts:
 
 ## Day 64
 
-- Solved 2 problems using Java in Brute force and Optimal ways
-- Solved Convert 1D Array Into 2D Array from LeetCode Contest
+- Solved two problems using Java in Brute force and Optimal ways
+	- Two Sum `HashMaps`, `Two Pointers`, `Arrays`
+	- Container With Most Water `Two pointer`, `Greedy`, `Arrays`
+- Solved a problem from LeetCode Contest
+	- Convert 1D Array Into 2D Array `Arrays`, `Matrix`
+
+## Day 65
+
+- Solved two problems from LeetCode Contest:
+	- Find Missing Observations `Greedy`, `Strings`
+	- Minimum Moves to Convert String `Strings`
 
 
 ---
