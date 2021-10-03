@@ -829,6 +829,8 @@ Learn more about firebase from my blog posts:
 	- Find Missing Observations `Greedy`, `Strings`
 	- Minimum Moves to Convert String `Strings`
 
+- Taught DOM Manipulation as part of JavaScript Roadmap event at Codecademy JU chapter
+
 
 ---
 
