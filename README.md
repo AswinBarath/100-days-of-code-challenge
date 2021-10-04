@@ -837,8 +837,8 @@ Learn more about firebase from my blog posts:
 - Revised the Theoretical concepts of Graph Data Structure
 - Updated GitHub Profile README with a new look
 
-[Graphs Repository](https://github.com/AswinBarath/Graphs)
-[GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
+- [Graphs Repository](https://github.com/AswinBarath/Graphs)
+- [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
 
 ---
 
