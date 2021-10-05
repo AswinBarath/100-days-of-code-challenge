@@ -840,6 +840,17 @@ Learn more about firebase from my blog posts:
 - [Graphs Repository](https://github.com/AswinBarath/Graphs)
 - [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
 
+
+## Day 67
+
+- Built a Real-time Twitter Streaming project with NodeJS, SocketIO and Twitter APIs
+- Completed the development of Tesla's landing page in ReactJS
+- Tranformed my GitHub Profile README to a newer and better look
+
+- [Tesla Landing Page Clone App](https://github.com/AswinBarath/tesla-clone)
+- [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
+
+
 ---
 
 ## Contributors
