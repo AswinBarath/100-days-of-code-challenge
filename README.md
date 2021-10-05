@@ -845,7 +845,7 @@ Learn more about firebase from my blog posts:
 
 - Built a Real-time Twitter Streaming project with NodeJS, SocketIO and Twitter APIs
 - Completed the development of Tesla's landing page in ReactJS
-- Tranformed my GitHub Profile README to a newer and better look
+- Transformed my GitHub Profile README to a newer and better look
 
 - [Tesla Landing Page Clone App](https://github.com/AswinBarath/tesla-clone)
 - [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
