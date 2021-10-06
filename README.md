@@ -876,6 +876,8 @@ Learn more about firebase from my blog posts:
 - Implemented Queue using Array
 - Implemented Stack using Queue
 - Implemented Queue using Stack
+- [Stacks Repo](https://github.com/AswinBarath/Stacks)
+- [Queues Repo](https://github.com/AswinBarath/Queues)
 
 <p>
 	<img src="./assets/day68StacksQueuesJava.gif" />
