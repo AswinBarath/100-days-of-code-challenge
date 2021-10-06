@@ -76,14 +76,14 @@ Learn More and Join me!
 ### Solve problems on Data Structures and Algorithms
 
 - [ ] Data Structures
-	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 21-24](#day-21-24), [Day 50](#day-50)
-	- [ ] Strings - [Day 21-24](#day-21-24)
-	- [ ] HashMaps - [Day 4](#day-4), [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 21-24](#day-21-24), [Day 50](#day-50)
-	- [ ] Stacks - [Day 8-14](#day-8-14), [Day 60](#day-60)
-	- [ ] Queues
+	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 21-24](#day-21-24), [Day 50](#day-50), [Day 64](#day-64)
+	- [ ] Strings - [Day 21-24](#day-21-24), [Day 65](#day-65)
+	- [ ] HashMaps - [Day 4](#day-4), [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 21-24](#day-21-24), [Day 50](#day-50), [Day 64](#day-64)
+	- [ ] Stacks - [Day 8-14](#day-8-14), [Day 60](#day-60), [Day 68](#day-68)
+	- [ ] Queues - [Day 68](#day-68)
 	- [ ] Linked Lists - [Day 21-24](#day-21-24), [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57)
 	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37)
-	- [ ] Graphs
+	- [ ] Graphs - [Day 66](#day-66)
 	- [ ] Heaps
 	- [ ] Tries
 
@@ -103,6 +103,8 @@ Learn More and Join me!
 	- [ ] Recursion - [Day 39](#day-39)
 	- [ ] Backtracking
 	- [ ] Dynamic Programming - [Day 53](#day-53), [Day 54](#day-54)
+	- [ ] Two pointers - [Day 64](#day-64)
+	- [ ] Greedy - [Day 64](#day-64), [Day 65](#day-65)
 	- [ ] Bit Manipulation
 	- [ ] Mathematical problems
 
@@ -139,13 +141,15 @@ Learn More and Join me!
 ### Build Web Developement projects
 - [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
 	- [x] Event Timeline Page - [Day 59](#day-59)
+	- [x] Joke Teller - [Day 63](#day-63)
 - [ ] Build ReactJS Web Apps
 	- [x] Build a Portfolio Website - [Day 7](#day-7)
 	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
-	- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61)
+	- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
 - [ ] Build NodeJS Microservices
 	- [x] Login Microservice - [Day 51](#day-51)
 	- [x] Event Timeline Page - [Day 59](#day-59)
+	- [x] Real-time Twitter Streaming App - [Day 67](#day-67)
 - [ ] Build Full-stack Apps
 	- [x] SQL Injection - [Day 51](#day-51)
 - [ ] Build React Native Apps
@@ -843,12 +847,39 @@ Learn more about firebase from my blog posts:
 
 ## Day 67
 
-- Built a Real-time Twitter Streaming project with NodeJS, SocketIO and Twitter APIs
 - Completed the development of Tesla's landing page in ReactJS
+- [Tesla Landing Page Clone App](https://github.com/AswinBarath/tesla-clone)
+
+- Built a Real-time Twitter Streaming App with NodeJS, SocketIO and Twitter APIs
+
+<p>
+	<img src="./assets/day67/filtered real-time twitter stream demo.gif" />
+</p>
+
+<br>
+
 - Transformed my GitHub Profile README to a newer and better look
 
-- [Tesla Landing Page Clone App](https://github.com/AswinBarath/tesla-clone)
+<p>
+	<img src="./assets/day67/GitHub README.gif" />
+</p>
+
 - [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
+
+<br>
+
+## Day 68
+
+- Solved two problems based on Stacks:
+	- Valid Parenthesis
+	- Next Greater Element
+- Implemented Queue using Array
+- Implemented Stack using Queue
+- Implemented Queue using Stack
+
+<p>
+	<img src="./assets/day68StacksQueuesJava.gif" />
+</p>
 
 
 ---
