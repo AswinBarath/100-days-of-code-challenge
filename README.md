@@ -883,6 +883,19 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day68StacksQueuesJava.gif" />
 </p>
 
+## Day 69
+
+- Started to build a massive e-commerce react application which is similar to Shopify
+- Here's my project pipeline for the day:
+	- Project initialization using Create React App
+	- Adding NodeJS SASS package for styling
+	- Broken homepage into components & applied SASS animations
+
+<p>
+	<img src="./assets/day69.gif" />
+</p>
+
+
 
 ---
 
