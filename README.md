@@ -66,7 +66,7 @@ Learn More and Join me!
 	- [x] JDBC - [Day 31](#day-31)
 	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 - [ ] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
-- [ ] Object-Oriented Design - [Day 38](#day-38)
+- [ ] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
 - [ ] Design Patterns
 - [ ] Spring Framework - [Day 8-14](#day-8-14)
 - [ ] Big Data & Machine Learning using Apache Spark
@@ -112,7 +112,7 @@ Learn More and Join me!
 
 ### Learn Advanced Full-stack Development 
 - [ ] JavaScript, - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
-- [ ] ReactJS, - [Day 46](#day-46)
+- [ ] ReactJS, - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
 - [ ] ReduxJS,
 - [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
 - [ ] NodeJS, - [Day 49](#day-49)
@@ -145,13 +145,14 @@ Learn More and Join me!
 - [ ] Build ReactJS Web Apps
 	- [x] Build a Portfolio Website - [Day 7](#day-7)
 	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
-	- [ ] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
+	- [x] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
 - [ ] Build NodeJS Microservices
 	- [x] Login Microservice - [Day 51](#day-51)
 	- [x] Event Timeline Page - [Day 59](#day-59)
 	- [x] Real-time Twitter Streaming App - [Day 67](#day-67)
 - [ ] Build Full-stack Apps
 	- [x] SQL Injection - [Day 51](#day-51)
+	- [ ] Clothing e-commerce application - [Day 69](#day-69), [Day 70](#day-70)
 - [ ] Build React Native Apps
 - [ ] Build Electron Apps
 - [ ] Build Chrome Extensions
@@ -900,6 +901,8 @@ Learn more about firebase from my blog posts:
 
 - Updated menu-items component to automate the page routing to specific URLs based on the passed props  using React Router
 - [Clothing e-commerce React application repository](https://github.com/AswinBarath/Clothing-e-Commerce)
+- Added my work on Object Oriented Design based on project based learning approach
+- [https://github.com/AswinBarath/Object-Oriented-Design](https://github.com/AswinBarath/Object-Oriented-Design)
 
 <p>
 	<img src="./assets/day70.gif" />
