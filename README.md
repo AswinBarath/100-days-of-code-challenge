@@ -898,7 +898,7 @@ Learn more about firebase from my blog posts:
 
 ## Day 70
 
-- Updated menu-items component to automate the page routing to specific urls based on the passed props
+- Updated menu-items component to automate the page routing to specific URLs based on the passed props  using React Router
 - [Clothing e-commerce React application repository](https://github.com/AswinBarath/Clothing-e-Commerce)
 
 <p>
