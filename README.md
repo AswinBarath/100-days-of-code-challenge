@@ -896,8 +896,14 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day69.gif" />
 </p>
 
+## Day 70
 
+- Updated menu-items component to automate the page routing to specific urls based on the passed props
+- [Clothing e-commerce React application repository](https://github.com/AswinBarath/Clothing-e-Commerce)
 
+<p>
+	<img src="./assets/day70.gif" />
+</p>
 
 
 ---
