@@ -908,6 +908,12 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day70.gif" />
 </p>
 
+## Day 71
+
+- Taught Git and GitHub at Codecademy JU Chapter
+- Recording: https://lnkd.in/eAn6QAYt
+- Wrap Up Page: https://lnkd.in/eUa4haKp
+- [Git and GitHub Basics](https://github.com/AswinBarath/Git-and-GitHub-Basics)
 
 ---
 
