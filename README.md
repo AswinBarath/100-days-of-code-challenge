@@ -915,6 +915,21 @@ Learn more about firebase from my blog posts:
 - Wrap Up Page: https://lnkd.in/eUa4haKp
 - [Git and GitHub Basics](https://github.com/AswinBarath/Git-and-GitHub-Basics)
 
+## Day 72
+
+- Taught ECMAScript Features from JavaScript at Codecademy JU Chapter
+- Wrap Up Page: [https://community.codecademy.com/events/details/codecademy-jain-university-ju-presents-javascript-roadmap-iii/](https://community.codecademy.com/events/details/codecademy-jain-university-ju-presents-javascript-roadmap-iii/)
+- [JS Roadmap ECMAScript](https://github.com/AswinBarath/javascript-roadmap-ecmascript)
+
+## Day 73
+
+- Solved two problems from Linked Lists
+	- Intersection of Two Linked Lists
+	- Cycle Detection in a Linked List
+- Restructured the developer environment at JU Query project
+- Added React-router-DOM package with basic routing abilities for JU Query Web App
+- [JU Query Repo](https://github.com/AswinBarath/ju-query)
+
 ---
 
 ## Contributors
