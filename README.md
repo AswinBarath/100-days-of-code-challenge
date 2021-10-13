@@ -930,6 +930,14 @@ Learn more about firebase from my blog posts:
 - Added React-router-DOM package with basic routing abilities for JU Query Web App
 - [JU Query Repo](https://github.com/AswinBarath/ju-query)
 
+## Day 74
+
+- Solved 3 problems using Linked Lists
+	- Reverse Nodes in k-Group
+	- Swap Nodes in Pairs
+	- Swapping Nodes in a Linked List
+
+
 ---
 
 ## Contributors
