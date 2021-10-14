@@ -938,6 +938,11 @@ Learn more about firebase from my blog posts:
 	- Swapping Nodes in a Linked List
 
 
+## Day 75
+
+- Solved the Linked List Palindrome checker problem at LeetCode
+
+
 ---
 
 ## Contributors
