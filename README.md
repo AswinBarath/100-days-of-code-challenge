@@ -1,10 +1,23 @@
 # 100-days-of-code-challenge
 
-[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on a personal project which mainly focuses on development to improve my skills and push my boundaries.
-
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/%23100DaysOfCode%20-%20Dark%20design.png" alt="100 Days of Code" />
 </p>
+
+[100 Days of Code Challenge](https://www.100daysofcode.com/) is an initiative I am commiting to take, where I will be spending each day working on problem solving and personal projects to improve my skills and push my boundaries.
+
+After two failed attempts, I'm coming back by publicly committing to the 100DaysOfCode Challenge starting today! 
+
+I'm going to follow Two Main Rules:
+1. Code a minimum of an hour every day for the next 100 days.
+2. Tweet your progress every day with the #100DaysOfCode hashtag
+
+My Exceptions:
+- If I break the streak, I will make sure that I won't break it the next day
+- My Community work, and few emergencies demands to take a day off
+
+[#100DaysOfCode](https://100DaysOfCode.com) 
+
 
 ## Useful Links
 
@@ -26,19 +39,9 @@
 <br>
 <br>
 
-After two failed attempts, I'm coming back by publicly committing to the 100DaysOfCode Challenge starting today! 
-
-I'm going to follow Two Main Rules:
-1. Code a minimum of an hour every day for the next 100 days.
-2. Tweet your progress every day with the #100DaysOfCode hashtag
-
-Each day I'm also going to reach out to at least two people on Twitter who are also doing the challenge
-Learn More and Join me! 
-
-[#100DaysOfCode](https://100DaysOfCode.com) 
-
 
 ---
+
 
 ## Goals
 
@@ -67,9 +70,6 @@ Learn More and Join me!
 	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 - [ ] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
 - [ ] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
-- [ ] Design Patterns
-- [ ] Spring Framework - [Day 8-14](#day-8-14)
-- [ ] Big Data & Machine Learning using Apache Spark
 
 ---
 
@@ -88,16 +88,16 @@ Learn More and Join me!
 	- [ ] Tries
 
 - [ ] Algorithms
-	- [ ] Sorting
-		- [ ] Insertion Sort
-		- [ ] Selection Sort
-		- [ ] Bubble Sort
-		- [ ] Count Sort
-		- [ ] Merge Sort
-		- [ ] Quick Sort
-	- [ ] Searching
-		- [ ] Linear Search
-		- [ ] Binary Search - [Day 45](#day-45), [Day 47](#day-47), [Day 48](#day-48), [Day 50](#day-50), [Day 52](#day-52), [Day 62](#day-62)
+	- [x] Sorting
+		- [x] Insertion Sort
+		- [x] Selection Sort
+		- [x] Bubble Sort
+		- [x] Count Sort
+		- [x] Merge Sort
+		- [x] Quick Sort
+	- [x] Searching
+		- [x] Linear Search
+		- [x] Binary Search - [Day 45](#day-45), [Day 47](#day-47), [Day 48](#day-48), [Day 50](#day-50), [Day 52](#day-52), [Day 62](#day-62)
 		- [ ] BFS
 		- [ ] DFS
 	- [ ] Recursion - [Day 39](#day-39)
@@ -111,9 +111,8 @@ Learn More and Join me!
 ---
 
 ### Learn Advanced Full-stack Development 
-- [ ] JavaScript, - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
-- [ ] ReactJS, - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
-- [ ] ReduxJS,
+- [ ] JavaScript - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
+- [ ] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
 - [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
 - [ ] NodeJS, - [Day 49](#day-49)
 - [ ] MongoDB
@@ -156,8 +155,7 @@ Learn More and Join me!
 - [ ] Build React Native Apps
 - [ ] Build Electron Apps
 - [ ] Build Chrome Extensions
-- [ ] Build and deploy ML models on top of Web Apps
-- [ ] Build Blockchain based Apps
+
 
 ---
 
@@ -179,17 +177,9 @@ Learn More and Join me!
 
 ### Build IoT Projects
 
-- [ ] Build Single Sensor projects
-	- [x] Eco Monitor - Light Intensity Sensor project - [Day 8-14](#day-8-14)
-- [ ] Build Data collections
-- [ ] Build Multi Sensor projects
-- [ ] Build ML oriented projects
-- [ ] Build Visualizations
-	- [x] Eco Monitor - Visualizations of Sensor data - [Day 8-14](#day-8-14)
-- [ ] Build Social Media of Things
-- [ ] Build Python oriented projects
-- [ ] Build Cloud oriented projects
-- [ ] Build API oriented projects
+- [x] Eco Monitor 
+	- [x] Light Intensity Sensor project - [Day 8-14](#day-8-14)
+	- [x] Eco Monitor - Visualizations of Sensor data project - [Day 8-14](#day-8-14)
 
 ---
 
@@ -197,6 +187,7 @@ Learn More and Join me!
 - [x] Event Timeline Page - [Day 59](#day-59)
 
 ---
+
 
 ## Day 1
 
@@ -537,6 +528,7 @@ Learn more about firebase from my blog posts:
 - Revisited Objects, Methods and dependencies.
 - Learnt more about Dependency Association, Composition Association and Aggregation Association through Java coding examples.
 
+
 ## Day 39
 
 - Assessed my recursion skills in Java @HackerRank
@@ -546,6 +538,7 @@ Learn more about firebase from my blog posts:
 
 - Can you complete the challenge? 
 	- https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
+
 
 ## Day 40
 
@@ -680,6 +673,7 @@ Learn more about firebase from my blog posts:
 		- [Live link](https://sql-injection-and-prevention.herokuapp.com)
 		- Refactored the project
 		- Updated documentation
+
 
 ## Day 52
 
@@ -828,6 +822,7 @@ Learn more about firebase from my blog posts:
 - Solved a problem from LeetCode Contest
 	- Convert 1D Array Into 2D Array `Arrays`, `Matrix`
 
+
 ## Day 65
 
 - Solved two problems from LeetCode Contest:
@@ -869,6 +864,7 @@ Learn more about firebase from my blog posts:
 
 <br>
 
+
 ## Day 68
 
 - Solved two problems based on Stacks:
@@ -884,6 +880,7 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day68StacksQueuesJava.gif" />
 </p>
 
+
 ## Day 69
 
 - Started to build a massive e-commerce react application which is similar to Shopify
@@ -897,6 +894,7 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day69.gif" />
 </p>
 
+
 ## Day 70
 
 - Updated menu-items component to automate the page routing to specific URLs based on the passed props  using React Router
@@ -908,6 +906,7 @@ Learn more about firebase from my blog posts:
 	<img src="./assets/day70.gif" />
 </p>
 
+
 ## Day 71
 
 - Taught Git and GitHub at Codecademy JU Chapter
@@ -915,11 +914,13 @@ Learn more about firebase from my blog posts:
 - Wrap Up Page: https://lnkd.in/eUa4haKp
 - [Git and GitHub Basics](https://github.com/AswinBarath/Git-and-GitHub-Basics)
 
+
 ## Day 72
 
 - Taught ECMAScript Features from JavaScript at Codecademy JU Chapter
 - Wrap Up Page: [https://community.codecademy.com/events/details/codecademy-jain-university-ju-presents-javascript-roadmap-iii/](https://community.codecademy.com/events/details/codecademy-jain-university-ju-presents-javascript-roadmap-iii/)
 - [JS Roadmap ECMAScript](https://github.com/AswinBarath/javascript-roadmap-ecmascript)
+
 
 ## Day 73
 
@@ -929,6 +930,7 @@ Learn more about firebase from my blog posts:
 - Restructured the developer environment at JU Query project
 - Added React-router-DOM package with basic routing abilities for JU Query Web App
 - [JU Query Repo](https://github.com/AswinBarath/ju-query)
+
 
 ## Day 74
 
@@ -941,6 +943,12 @@ Learn more about firebase from my blog posts:
 ## Day 75
 
 - Solved the Linked List Palindrome checker problem at LeetCode
+
+
+## Day 76
+
+- Built different pages and components for JU Query Project85
+- Experimented pages with React Router and learning more about it
 
 
 ---
