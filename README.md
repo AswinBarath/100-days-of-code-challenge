@@ -414,29 +414,51 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 
-## Day 25-30
+## Day 25
 
-• Constructed a project - Stock Analysis using Java that employs the following ideas:
-- File Handling
-- Generics
-- Collections Framework
-- Exception Handling
-- Try with Resources and AutoClosable Interface
+- Brainstormed new ideas for JU Query project
+- Took part in Phase 0 Project discussion
+- Spun up the Repo for JU Query and provided neat documentation with Markdown language
 
-• Deciphered challenges in Hackerrank on Exception Handling using Java
 
-• Carry out a deep dive in Multithreading and discovered further on:
-- Multithreading in Java
-- Different ways to start a thread
-- Thread synchronization
-- Thread Safety
-- Concurrent Collections (Thread-safe)
-- Producer-Consumer pattern
+## Day 26
 
+- Revised the problem solving concepts of Arrays, Sorting, Recursion
+- Learnt about basic problem solving using Binary Search
+
+
+## Day 27
+
+- Learnt more about problem solving techniques for Linked lists
+
+
+## Day 28
+
+- Constructed a project - Stock Analysis using Java that employs the following ideas:
+	- File Handling
+	- Generics
+	- Collections Framework
+	- Exception Handling
+	- Try with Resources and AutoClosable Interface
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/1%20Stock%20analysis.png" alt="Stock analysis" width="800px"/>
 </p>
+
+
+## Day 29
+
+- Practiced 3 different ways to start a thread in Java
+- Learnt the concepts of Thread safety and Synchronization
+- Practiced thread safety and synchronized blocks in Java
+- Used concurrent collections for implementing thread safe Java programs
+
+
+## Day 30
+
+- Revised the concepts of Collections Framework
+- Started learning about Producer Consumer Pattern
+- Deciphered challenges in Hackerrank on Exception Handling using Java
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day25-30/2%20Hackerrank%20Java%203%20star.png" alt="Hackerrank Java 3 star" width="400px"/>
