@@ -419,6 +419,8 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 - Brainstormed new ideas for JU Query project
 - Took part in Phase 0 Project discussion
 - Spun up the Repo for JU Query and provided neat documentation with Markdown language
+- [JU Query Repo](https://github.com/AswinBarath/ju-query)
+- [JU Query Deployed Link](https://ju-query.web.app/)
 
 
 ## Day 26
@@ -969,9 +971,10 @@ Learn more about firebase from my blog posts:
 
 ## Day 76
 
-- Built different pages and components for JU Query Project85
+- Built different pages and components for JU Query Project
 - Experimented pages with React Router and learning more about it
-
+- [JU Query Repo](https://github.com/AswinBarath/ju-query)
+- [JU Query Deployed Link](https://ju-query.web.app/)
 
 ---
 
