@@ -979,7 +979,15 @@ Learn more about firebase from my blog posts:
 
 ## Day 77
 
-- Solved the problem finding the starting point of a cycle in Linked list
+- Solved the problem of finding the starting point of a cycle in Linked list
+
+
+## Day 78
+
+- Solved 3 Linked list problems using Recursion and two-pointers approach:
+	- Flatten given Linked list
+	- Rotate given Linked list
+	- Clone given Linked list with next and random pointers
 
 
 ---
