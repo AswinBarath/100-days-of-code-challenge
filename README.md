@@ -45,20 +45,16 @@ My Exceptions:
 
 ## Goals
 
-- [Learn Software Development with Java](#learn-software-development-with-java)
-- [Learn Advanced Full-stack Development](#learn-advanced-full-stack-development)
+- [Learn Software Development](#learn-software-development)
 - [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
-- [Solve Python Challenges](#solve-python-challenges)
+- [Build Projects around Software Development](#build-projects-around-software-development)
 - [Build JU Query platform for university students](#build-ju-query-platform-for-university-students)
-- [Build Web Developement projects](#build-web-developement-projects)
-- [Build Python projects](#build-python-projects)
-- [Build IoT Projects](#build-iot-projects)
-- [Build Community Projects](#build-community-projects)
 
 ---
 
-### Learn Software Development with Java 
+### Learn Software Development
 
+#### Learn Java Software Development 
 - [x] Java Core Concepts
 	- [x] Object Oriented Programming in Java - [Day 8-14](#day-8-14)
 	- [x] Collections Framework - [Day 25-30](#day-25-30)
@@ -70,6 +66,14 @@ My Exceptions:
 	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 - [ ] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
 - [ ] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
+
+
+#### Learn Advanced Full-stack Development 
+- [ ] JavaScript - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
+- [ ] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
+- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
+- [ ] NodeJS, - [Day 49](#day-49)
+- [ ] MongoDB
 
 ---
 
@@ -108,14 +112,34 @@ My Exceptions:
 	- [ ] Bit Manipulation
 	- [ ] Mathematical problems
 
+- [x] Solved Python Challenges [Day 5](#day-5), [Day 58](#day-58)
+
 ---
 
-### Learn Advanced Full-stack Development 
-- [ ] JavaScript - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
-- [ ] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
-- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
-- [ ] NodeJS, - [Day 49](#day-49)
-- [ ] MongoDB
+### Build Projects around Software Development
+- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
+	- [x] Event Timeline Page - [Day 59](#day-59)
+	- [x] Joke Teller - [Day 63](#day-63)
+- [ ] Build ReactJS Web Apps
+	- [x] Build a Portfolio Website - [Day 7](#day-7)
+	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
+	- [x] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
+- [ ] Build NodeJS Microservices
+	- [x] Login Microservice - [Day 51](#day-51)
+	- [x] Event Timeline Page - [Day 59](#day-59)
+	- [x] Real-time Twitter Streaming App - [Day 67](#day-67)
+- [ ] Build Full-stack Apps
+	- [x] SQL Injection - [Day 51](#day-51)
+	- [ ] Clothing e-commerce application - [Day 69](#day-69), [Day 70](#day-70)
+- [ ] Build React Native Apps
+- [ ] Build Electron Apps
+- [ ] Build Chrome Extensions
+- [x] IMDb Web Scrapper - [Day 6](#day-6)
+- [x] Eco Monitor IoT Project 
+	- [x] Light Intensity Sensor project - [Day 8-14](#day-8-14)
+	- [x] Eco Monitor - Visualizations of Sensor data project - [Day 8-14](#day-8-14)
+- [x] Event Timeline Page (Community Project) - [Day 59](#day-59)
+
 
 ---
 
@@ -134,57 +158,6 @@ My Exceptions:
 	- [ ] Create User and Admin Roles
 	- [ ] Add ML recommendation engine component
 	- [ ] Create Admin Dashboard
-
----
-
-### Build Web Developement projects
-- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
-	- [x] Event Timeline Page - [Day 59](#day-59)
-	- [x] Joke Teller - [Day 63](#day-63)
-- [ ] Build ReactJS Web Apps
-	- [x] Build a Portfolio Website - [Day 7](#day-7)
-	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
-	- [x] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
-- [ ] Build NodeJS Microservices
-	- [x] Login Microservice - [Day 51](#day-51)
-	- [x] Event Timeline Page - [Day 59](#day-59)
-	- [x] Real-time Twitter Streaming App - [Day 67](#day-67)
-- [ ] Build Full-stack Apps
-	- [x] SQL Injection - [Day 51](#day-51)
-	- [ ] Clothing e-commerce application - [Day 69](#day-69), [Day 70](#day-70)
-- [ ] Build React Native Apps
-- [ ] Build Electron Apps
-- [ ] Build Chrome Extensions
-
-
----
-
-### Solve Python Challenges 
-- [Day 5](#day-5), [Day 58](#day-58)
-
----
-
-### Build Python projects
-
-- [ ] Build Web Scrappers - [Day 6](#day-6)
-- [ ] Build Python Scripts
-- [ ] Build Automation Scripts and Tests
-- [ ] Build Flask apps
-- [ ] Build Basic ML Models
-- [ ] Build Data Visualizations
-
----
-
-### Build IoT Projects
-
-- [x] Eco Monitor 
-	- [x] Light Intensity Sensor project - [Day 8-14](#day-8-14)
-	- [x] Eco Monitor - Visualizations of Sensor data project - [Day 8-14](#day-8-14)
-
----
-
-### Build Community Projects
-- [x] Event Timeline Page - [Day 59](#day-59)
 
 ---
 
