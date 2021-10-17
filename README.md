@@ -259,20 +259,36 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 - And set up a custom domain using namecheap service
 
 
-## Day 8-14
+## Day 8
 
-- Started off with the week with vaccination 💉💪
-- Solved SDE problems from GFG ✍
+- Worked on the presentarions for JavaScript Basics Event ✍
+- Created basic code snippets for understanding JavaScript Basics 💪
+- Started off with the week with vaccination 💉
+
+
+## Day 9
+
+- Took some rest for after effects of vaccination 💉🛌
+- Revised the concepts of Java programming and Operating Systems
+
+
+## Day 10
+
+- Revised Operating Systems
+- Hands-on practice on Java programming in Eclipse IDE
+
+
+## Day 11
+
+- Solved basic array problems from GFG Practice platform ✍
+- Explored problem solving tracker project built with react and typescript
+
+
+## Day 12
+
 - Built an IoT project "Eco Monitor" - Light Intensity Sensor project🍀
 - Performed data analystics using visualization to display sensor data 📈📊📉
-- Solved Regular expression challenges in JavaScript from Hackerrank 🧾
-- Built a Stack Data Structure using Java 📚
-- Learnt more about objects, methods, dependencies 🕵️‍♀️
-- Learnt basics of Spring framework (Java) 🍃
-
-<p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="800px"/>
-</p>
+- Explored the Bolt IoT Cloud platform
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Light_Intensity_Monitor.jpg" alt="Light_Intensity_Monitor" width="400px"/>
@@ -282,6 +298,14 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Bolt%20IoT%20Eco%20Monitor%20Gauge%20visualization.png" alt="Guage data visual" width="400px"/>
 </p>
 
+
+## Day 13
+
+- Solved Regular expression challenges in JavaScript from Hackerrank 🧾
+- Learnt more about Generics with wildcards
+- Practices Hackerrank problems on Generics
+- Solved the problem Largest subarray with zero sum
+
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hackerrank%2010%20days%20of%20JS.png" alt="10 Days of JS" width="400px"/>
 
@@ -289,11 +313,22 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/GFG-largest0sum.png" alt="SDE problem from GFG" width="800px"/>
+</p>
+
+
+## Day 14
+
+- Built a Stack Data Structure using Java 📚
+- Learnt more about objects, methods, dependencies 🕵️‍♀️
+- Learnt basics of Spring framework (Java) 🍃
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Stack%20DS%20code.png" alt="Stack DS" width="400px"/>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="800px"/>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%201.png" alt="Spring hello world code" width="400px"/>
 
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day8-14/Hello%20world%20in%20Spring%20Framework%20-%20Java%202.png" alt="Spring hello world output" width="800px"/>
 </p>
@@ -309,9 +344,19 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 </p>
 
 
-## Day 16-17
+## Day 16
+
+- Worked more on JS Roadmap Basics event presentations and code snippets
+- Solved few Python Challenges
+- Attended Saturday's LeetCode contest
+- Attended an Interview round on the topics: SQL, Algorithm and Data Structures
+
+
+## Day 17
 
 - Completed the JavaScript challenges from 10 Days of JS
+- Successfully conducted JavaScript Roadmap - The Basics event
+- Shared about 10 Days of JS challenge in my JS Roadmap Basics event
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day16-17/10%20Days%20of%20JS%20silver%204%20star.png" alt="Hackerrank 10 Days of JS silver" width="400px"/>
@@ -324,17 +369,25 @@ Project Repository: [IMDb web scrapper](https://github.com/AswinBarath/IMDb-web-
 </p>
 
 
-## Day 18-20
+## Day 18
+
+- Gained more knowledge about SSH and basic commands
+- Learnt new concepts from Operating Systems
+- Solved several SDE (frequently asked) Interview problems from GFG practice platform
+
+
+## Day 19
+
+- Solved CSS challenges from freeCodeCamp's Responsive Web Design course
+- Learnt new concepts from Operating Systems
+
+
+## Day 20
 
 Disentangled JavaScript Algorithms and Data Structures course from freeCodeCamp for the past three days:
-
 - Solved more challenges on Regular expressions using JavaScript
 - Completed JavaScript debugging challenges
-
-Check out the JavaScript tutorials on Regular expressions to learn from basics to advanced regex statements by solving real-world challenges:
-
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions
-
+- Check out the JavaScript tutorials on Regular expressions to learn from basics to advanced regex statements by solving real-world challenges: [Regex challenges at FCC0](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day18-20/FCC%20JS%20regex%20challenges%2066.png" alt="FCC JS regex challenges 66" width="400px"/>
@@ -349,9 +402,22 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#re
 </p>
 
 
-## Day 21-24
+## Day 21
 
-After solving various problems on Arrays, Strings and Hashmaps:
+- Wrapped up the JS Roadmap Basics event
+- Shared the code files and Git Repositories with my community
+- Deployed the code on Repl.it platform
+
+
+## Day 22
+
+- Revised and learnt the concepts: OOPs, Stacks, Queues, Linked lists
+- Attended **Gatsby v2 (Intermediate) workshop from Front-end masters**
+
+
+## Day 23
+
+- After solving various problems on Arrays, Strings and Hashmaps:
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Key%20Pair%20gfg.png" alt="Key Pair GFG" width="400px"/>
@@ -364,29 +430,37 @@ After solving various problems on Arrays, Strings and Hashmaps:
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Trapping%20rain%20water%20gfg.png" alt="Trapping rain water GFG" width="400px"/>
 </p>
 
-
-Pulled off a deep dive in Linked list data structure and learnt more about:
-
-- What is a Linked list?
-- Need for Linked list
-- Arrays VS Linked list
-- Types of Linked list
-- Linked list operations
-- Types of problems
+- Pulled off a deep dive in Linked list data structure and learnt more about:
+	- What is a Linked list?
+	- Need for Linked list
+	- Arrays VS Linked list
+	- Types of Linked list
+	- Linked list operations
+	- Types of problems
+- [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Linked%20lists%20docs.PNG" alt="Linked lists docs.PNG" width="800px"/>
 </p>
 
-Also I have solved few problems based on Linked list at Leetcode and GFG
-
-- Reverse a Linked list
-- Middle of a Linked list
-- Even nodes after odd in Linked list
-
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Node.png" alt="Node in LL" width="800px"/>
 </p>
+
+<p>
+<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/SinglyLL.png" alt="Singly Linked List code" width="800px"/>
+</p>
+
+- Attended an Interview round which included Computer Science concepts, problems on Data Structures and Algorithms, case studies on SQL with Schemas, RDBMS and system designs
+
+
+## Day 24
+
+Solved few problems based on Linked list at Leetcode and GFG
+- Reverse a Linked list
+- Middle of a Linked list
+- Even nodes after odd in Linked list
+- [Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Reverse%20LL.png" alt="Reverse LL" width="400px"/>
@@ -406,12 +480,6 @@ Also I have solved few problems based on Linked list at Leetcode and GFG
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/Rearrange%20a%20linked%20list.png" alt="Rearrange LL GFG" width="800px"/>
 </p>
-
-<p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/day21-24/SinglyLL.png" alt="Singly Linked List code" width="800px"/>
-</p>
-
-[Linked lists GitHub Repository](https://github.com/AswinBarath/Linked-lists)
 
 
 ## Day 25
@@ -987,7 +1055,7 @@ Learn more about firebase from my blog posts:
 - Solved 3 Linked list problems using Recursion and two-pointers approach:
 	- Flatten given Linked list
 	- Rotate given Linked list
-	- Clone given Linked list with next and random pointers
+	- Clone a given Linked list with next and random pointers
 
 
 ---
