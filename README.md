@@ -161,6 +161,7 @@ My Exceptions:
 
 ---
 
+## 100DaysOfCode Day-to-Day Progress
 
 ## Day 1
 
