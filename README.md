@@ -1031,6 +1031,15 @@ Learn more about firebase from my blog posts:
 	- Rotate given Linked list
 	- Clone a given Linked list with next and random pointers
 
+## Day79
+
+- Solved 3 problems using two-pointers approach:
+	- Find triplets with 0 sum
+	- Remove Duplicates from Sorted Array
+	- Max Consecutive Ones
+- 2-pointers Repo: https://git.io/JKHRE
+
+
 
 ---
 
