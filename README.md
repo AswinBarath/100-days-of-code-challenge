@@ -64,8 +64,7 @@ My Exceptions:
 	- [x] Concurrency and Multi-Threading - [Day 25-30](#day-25-30)
 	- [x] JDBC - [Day 31](#day-31)
 	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
-- [ ] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
-- [ ] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
+- [x] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
 
 
 #### Learn Advanced Full-stack Development 
@@ -113,6 +112,7 @@ My Exceptions:
 	- [ ] Mathematical problems
 
 - [x] Solved Python Challenges [Day 5](#day-5), [Day 58](#day-58)
+- [x] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
 
 ---
 
@@ -1031,7 +1031,8 @@ Learn more about firebase from my blog posts:
 	- Rotate given Linked list
 	- Clone a given Linked list with next and random pointers
 
-## Day79
+
+## Day 79
 
 - Solved 3 problems using two-pointers approach:
 	- Find triplets with 0 sum
@@ -1039,6 +1040,14 @@ Learn more about firebase from my blog posts:
 	- Max Consecutive Ones
 - 2-pointers Repo: https://git.io/JKHRE
 
+
+## Day 80
+
+- Solved 3 problems using greedy approach:
+	- N meetings In One Room
+	- Minimum Platforms
+	- Job Sequencing
+- Greedy-algorithms Repo: https://git.io/J6lZU
 
 
 ---
