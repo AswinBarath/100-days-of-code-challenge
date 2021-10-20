@@ -1050,6 +1050,15 @@ Learn more about firebase from my blog posts:
 - Greedy-algorithms Repo: https://git.io/J6lZU
 
 
+## Day 81
+
+- Solved 2 more problems using greedy algorithm
+	- Minimum coins
+	- Fractional Knapsack
+- Greedy-algorithms Repo: https://git.io/J6lZU
+
+
+
 ---
 
 ## Contributors
