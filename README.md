@@ -1058,6 +1058,11 @@ Learn more about firebase from my blog posts:
 - Greedy-algorithms Repo: https://git.io/J6lZU
 
 
+## Day 82
+
+- Solved the problem Split Array Largest Sum using Binary Search
+- Binary-Search Repo: https://git.io/JuSnw
+
 
 ---
 
