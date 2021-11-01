@@ -1,4 +1,4 @@
-# 100-days-of-code-challenge
+# 100 Days of Code Challenge
 
 <p>
 <img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/%23100DaysOfCode%20-%20Dark%20design.png" alt="100 Days of Code" />
@@ -45,53 +45,56 @@ My Exceptions:
 
 ## Goals
 
-- [Learn Software Development](#learn-software-development)
-- [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
-- [Build Projects around Software Development](#build-projects-around-software-development)
-- [Build JU Query platform for university students](#build-ju-query-platform-for-university-students)
+- [x] [Learn Software Development](#learn-software-development)
+- [ ] [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
+- [x] [Build Projects around Software Development](#build-projects-around-software-development)
+- [ ] [Build JU Query platform for university students](#build-ju-query-platform-for-university-students)
+- [x] [Community Work](#community-work)
 
 ---
+
 
 ### Learn Software Development
 
 #### Learn Java Software Development 
 - [x] Java Core Concepts
-	- [x] Object Oriented Programming in Java - [Day 8-14](#day-8-14)
-	- [x] Collections Framework - [Day 25-30](#day-25-30)
-	- [x] Generics - [Day 25-30](#day-25-30)
-	- [x] File Handling - [Day 25-30](#day-25-30)
-	- [x] Exception Handling - [Day 25-30](#day-25-30)
-	- [x] Concurrency and Multi-Threading - [Day 25-30](#day-25-30)
+	- [x] Object Oriented Programming in Java - [Day 9](#day-9), [Day 10](#day-10)
+	- [x] Collections Framework - [Day 28](#day-28), [Day 30](#day-30)
+	- [x] Generics - [Day 28](#day-28)
+	- [x] File Handling - [Day 28](#day-28)
+	- [x] Exception Handling - [Day 28](#day-28)
+	- [x] Concurrency and Multi-Threading - [Day 29](#day-29), [Day 30](#day-30)
 	- [x] JDBC - [Day 31](#day-31)
 	- [x] Lambda Expressions and Stream API (Functional Programming) - [Day 32](#day-32), [Day 35](#day-35), [Day 36](#day-36)
 - [x] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
 
 
 #### Learn Advanced Full-stack Development 
-- [ ] JavaScript - [Day 8-14](#day-8-14), [Day 16-17](#day-16-17), [Day 18-20](#day-18-20), [Day 42](#day-42)
-- [ ] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
-- [ ] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
-- [ ] NodeJS, - [Day 49](#day-49)
-- [ ] MongoDB
+- [x] JavaScript - [Day 8](#day-8), [Day 13](#day-13), [Day 16](#day-16), [Day 17](#day-17), [Day 20](#day-20), [Day 42](#day-42)
+- [x] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
+- [x] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
+- [x] NodeJS, - [Day 49](#day-49), [Day 51](#day-51), [Day 59](#day-59), [Day 67](#day-67)
+
 
 ---
+
 
 ### Solve problems on Data Structures and Algorithms
 
 - [ ] Data Structures
-	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 21-24](#day-21-24), [Day 50](#day-50), [Day 64](#day-64)
-	- [ ] Strings - [Day 21-24](#day-21-24), [Day 65](#day-65)
-	- [ ] HashMaps - [Day 4](#day-4), [Day 8-14](#day-8-14), [Day 15](#day-15), [Day 21-24](#day-21-24), [Day 50](#day-50), [Day 64](#day-64)
-	- [ ] Stacks - [Day 8-14](#day-8-14), [Day 60](#day-60), [Day 68](#day-68)
+	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 11](#day-11), [Day 13](#day-13), [Day 23](#day-23), [Day 26](#day-26), [Day 50](#day-50), [Day 64](#day-64)
+	- [ ] Strings - [Day 23](#day-23), [Day 65](#day-65)
+	- [ ] HashMaps - [Day 4](#day-4), [Day 13](#day-13), [Day 15](#day-15), [Day 23](#day-23), [Day 50](#day-50), [Day 64](#day-64)
+	- [ ] Stacks - [Day 14](#day-14), [Day 60](#day-60), [Day 68](#day-68)
 	- [ ] Queues - [Day 68](#day-68)
-	- [ ] Linked Lists - [Day 21-24](#day-21-24), [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57)
+	- [x] Linked Lists - [Day 22](#day-22), [Day 23](#day-23), [Day 24](#day-24), [Day 27](#day-27), [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57), [Day 73](#day-73), [Day 74](#day-74), [Day 75](#day-75), [Day 77](#day-77), [Day 78](#day-78)
 	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37)
 	- [ ] Graphs - [Day 66](#day-66)
 	- [ ] Heaps
 	- [ ] Tries
 
 - [ ] Algorithms
-	- [x] Sorting
+	- [x] Sorting - [Day 26](#day-26)
 		- [x] Insertion Sort
 		- [x] Selection Sort
 		- [x] Bubble Sort
@@ -100,48 +103,47 @@ My Exceptions:
 		- [x] Quick Sort
 	- [x] Searching
 		- [x] Linear Search
-		- [x] Binary Search - [Day 45](#day-45), [Day 47](#day-47), [Day 48](#day-48), [Day 50](#day-50), [Day 52](#day-52), [Day 62](#day-62)
+		- [ ] Binary Search - [Day 26](#day-26), [Day 45](#day-45), [Day 47](#day-47), [Day 48](#day-48), [Day 50](#day-50), [Day 52](#day-52), [Day 62](#day-62), [Day 82](#day-82)
 		- [ ] BFS
 		- [ ] DFS
-	- [ ] Recursion - [Day 39](#day-39)
+	- [ ] Recursion - [Day 26](#day-26), [Day 39](#day-39), [Day 78](#day-78), [Day 83](#day-83)
 	- [ ] Backtracking
 	- [ ] Dynamic Programming - [Day 53](#day-53), [Day 54](#day-54)
-	- [ ] Two pointers - [Day 64](#day-64)
-	- [ ] Greedy - [Day 64](#day-64), [Day 65](#day-65)
+	- [x] Two pointers - [Day 64](#day-64), [Day 78](#day-78), [Day 79](#day-79)
+	- [x] Greedy - [Day 64](#day-64), [Day 65](#day-65), [Day 80](#day-80), [Day 81](#day-81)
 	- [ ] Bit Manipulation
 	- [ ] Mathematical problems
 
 - [x] Solved Python Challenges [Day 5](#day-5), [Day 58](#day-58)
 - [x] Solve Hackerrank Challenges in Java - [Day 15](#day-15)
 
+
 ---
 
+
 ### Build Projects around Software Development
-- [ ] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
-	- [x] Event Timeline Page - [Day 59](#day-59)
-	- [x] Joke Teller - [Day 63](#day-63)
-- [ ] Build ReactJS Web Apps
+- [x] Build Full-stack Apps
+	- [x] Clothing e-commerce application - [Day 69](#day-69), [Day 70](#day-70)
+- [x] Build ReactJS Web Apps
 	- [x] Build a Portfolio Website - [Day 7](#day-7)
 	- [ ] Build a LinkedIn Clone - [Day 46](#day-46)
 	- [x] Build a Tesle Landing Page Clone - [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67)
-- [ ] Build NodeJS Microservices
+- [x] Build NodeJS Microservices
 	- [x] Login Microservice - [Day 51](#day-51)
 	- [x] Event Timeline Page - [Day 59](#day-59)
 	- [x] Real-time Twitter Streaming App - [Day 67](#day-67)
-- [ ] Build Full-stack Apps
-	- [x] SQL Injection - [Day 51](#day-51)
-	- [ ] Clothing e-commerce application - [Day 69](#day-69), [Day 70](#day-70)
-- [ ] Build React Native Apps
-- [ ] Build Electron Apps
-- [ ] Build Chrome Extensions
+- [x] Build Vanilla JavaScript Projects - [Day 40](#day-40), [Day 41](#day-41), [Day 47](#day-47), [Day 58](#day-58)
+	- [x] Event Timeline Page - [Day 59](#day-59)
+	- [x] Joke Teller - [Day 63](#day-63)
+- [x] SQL Injection & Prevention Project - [Day 51](#day-51)
 - [x] IMDb Web Scrapper - [Day 6](#day-6)
 - [x] Eco Monitor IoT Project 
-	- [x] Light Intensity Sensor project - [Day 8-14](#day-8-14)
-	- [x] Eco Monitor - Visualizations of Sensor data project - [Day 8-14](#day-8-14)
-- [x] Event Timeline Page (Community Project) - [Day 59](#day-59)
+	- [x] Light Intensity Sensor project - [Day 12](#day-12)
+	- [x] Eco Monitor - Visualizations of Sensor data project - [Day 12](#day-12)
 
 
 ---
+
 
 ### Build JU Query platform for university students
 - [ ] JU Query Features - [Day 43](#day-43), [Day 44](#day-44)
@@ -152,6 +154,7 @@ My Exceptions:
 		- [x] Add Query component
 		- [x] Answer Query component
 		- [x] Show Answer component
+	- [x] Basic Routing - [Day 73](#day-73), [Day 76](#day-76)
 	- [ ] Topic-specific components
 	- [ ] User Profile components
 	- [ ] Create Event specific components
@@ -159,7 +162,21 @@ My Exceptions:
 	- [ ] Add ML recommendation engine component
 	- [ ] Create Admin Dashboard
 
+
 ---
+
+
+### Community Work
+
+- [x] JavaScript Roadmap I - The Basics Event - [Day 8](#day-8), [Day 16](#day-16), [Day 17](#day-17), [Day 21](#day-21)
+- [x] Event Timeline Page (Community Project) - [Day 59](#day-59)
+- [x] JavaScript Roadmap II - DOM Manipulation Event - [Day 65](#day-65)
+- [x] [Git and GitHub Event](https://github.com/AswinBarath/Git-and-GitHub-Basics) - [Day 71](#day-71)
+- [x] [JavaScript Roadmap III - EcmaScript Event](https://github.com/AswinBarath/javascript-roadmap-ecmascript) - [Day 72](#day-72)
+
+
+---
+
 
 ## 100DaysOfCode Day-to-Day Progress
 
@@ -516,7 +533,6 @@ Solved few problems based on Linked list at Leetcode and GFG
 - Operated with ArrayBlockingQueue collection
 - Obtained knowledge on Thread pools
 - Engaged Executor Framework to perform tasks using spawned thread pools
-
 - Overview on Java Database Connectivity (JDBC)
 - Installed MySQL for Java
 - Connected a database using JDBC
@@ -894,7 +910,6 @@ Learn more about firebase from my blog posts:
 - Solved two problems from LeetCode Contest:
 	- Find Missing Observations `Greedy`, `Strings`
 	- Minimum Moves to Convert String `Strings`
-
 - Taught DOM Manipulation as part of JavaScript Roadmap event at Codecademy JU chapter
 
 
@@ -902,7 +917,6 @@ Learn more about firebase from my blog posts:
 
 - Revised the Theoretical concepts of Graph Data Structure
 - Updated GitHub Profile README with a new look
-
 - [Graphs Repository](https://github.com/AswinBarath/Graphs)
 - [GitHub Profile README](https://github.com/AswinBarath/AswinBarath)
 
@@ -911,7 +925,6 @@ Learn more about firebase from my blog posts:
 
 - Completed the development of Tesla's landing page in ReactJS
 - [Tesla Landing Page Clone App](https://github.com/AswinBarath/tesla-clone)
-
 - Built a Real-time Twitter Streaming App with NodeJS, SocketIO and Twitter APIs
 
 <p>
@@ -1067,6 +1080,12 @@ Learn more about firebase from my blog posts:
 ## Day 83
 
 - Revised the concepts from Recursion
+- Recursion Repo: https://git.io/JPzPQ
+
+## Day 84
+
+- Learnt #DSAwithKunal focusing on Recursion
+- Got to understand Recursion and how to approach problems in the best way
 - Recursion Repo: https://git.io/JPzPQ
 
 
