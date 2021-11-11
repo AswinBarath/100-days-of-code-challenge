@@ -1088,6 +1088,11 @@ Learn more about firebase from my blog posts:
 - Got to understand Recursion and how to approach problems in the best way
 - Recursion Repo: https://git.io/JPzPQ
 
+## Day 85
+
+- Used Markdown in my Web End Projects Repository extensively to visualize my project cover designs, demo and important links
+- Web End Projects: https://github.com/AswinBarath/Web-End-Projects
+
 
 ---
 
