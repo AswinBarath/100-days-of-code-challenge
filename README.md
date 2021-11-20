@@ -1093,6 +1093,11 @@ Learn more about firebase from my blog posts:
 - Used Markdown in my Web End Projects Repository extensively to visualize my project cover designs, demo and important links
 - Web End Projects: https://github.com/AswinBarath/Web-End-Projects
 
+## Day 86
+
+- Solved problems to find Size, Height, Max & Min from a Binary Tree
+- Trees Repo: https://git.io/J1MM0
+
 
 ---
 
