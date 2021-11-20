@@ -69,7 +69,7 @@ My Exceptions:
 - [x] Object-Oriented Design - [Day 38](#day-38), [Day 70](#day-70)
 
 
-#### Learn Advanced Full-stack Development 
+#### Learn Full-stack Development 
 - [x] JavaScript - [Day 8](#day-8), [Day 13](#day-13), [Day 16](#day-16), [Day 17](#day-17), [Day 20](#day-20), [Day 42](#day-42)
 - [x] ReactJS & ReduxJS - [Day 46](#day-46), [Day 60](#day-60), [Day 61](#day-61), [Day 67](#day-67), [Day 69](#day-69), [Day 70](#day-70)
 - [x] Firebase, - [Day 33](#day-33), [Day 34](#day-34)
@@ -82,13 +82,13 @@ My Exceptions:
 ### Solve problems on Data Structures and Algorithms
 
 - [ ] Data Structures
-	- [ ] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 11](#day-11), [Day 13](#day-13), [Day 23](#day-23), [Day 26](#day-26), [Day 50](#day-50), [Day 64](#day-64)
+	- [x] Arrays - [Day 1](#day-1), [Day 2](#day-2), [Day 3](#day-3), [Day 11](#day-11), [Day 13](#day-13), [Day 23](#day-23), [Day 26](#day-26), [Day 50](#day-50), [Day 64](#day-64)
 	- [ ] Strings - [Day 23](#day-23), [Day 65](#day-65)
-	- [ ] HashMaps - [Day 4](#day-4), [Day 13](#day-13), [Day 15](#day-15), [Day 23](#day-23), [Day 50](#day-50), [Day 64](#day-64)
+	- [x] HashMaps - [Day 4](#day-4), [Day 13](#day-13), [Day 15](#day-15), [Day 23](#day-23), [Day 50](#day-50), [Day 64](#day-64)
 	- [ ] Stacks - [Day 14](#day-14), [Day 60](#day-60), [Day 68](#day-68)
 	- [ ] Queues - [Day 68](#day-68)
 	- [x] Linked Lists - [Day 22](#day-22), [Day 23](#day-23), [Day 24](#day-24), [Day 27](#day-27), [Day 55](#day-55), [Day 56](#day-56), [Day 57](#day-57), [Day 73](#day-73), [Day 74](#day-74), [Day 75](#day-75), [Day 77](#day-77), [Day 78](#day-78)
-	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37)
+	- [ ] Trees - [Day 32](#day-32), [Day 37](#day-37), [Day 86](#day-86)
 	- [ ] Graphs - [Day 66](#day-66)
 	- [ ] Heaps
 	- [ ] Tries
