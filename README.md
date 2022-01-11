@@ -1122,6 +1122,82 @@ Learn more about firebase from my blog posts:
 - [Updated Java packages and classes with tree traversals](https://github.com/AswinBarath/Trees/commit/a4f8a625ea84f1ceb57829bdf69bee4ff77ee092)
 - Added extensive documentation for Linked-lists, Bit-Manipulation, Binary-search and Trees repositories
 
+## Day 91
+
+- 28 November Sunday, 2021
+- [Implemented All-in-one Tree Traversals, Height and Depth of Binary Tree](https://github.com/AswinBarath/Trees/commit/431814b7cff3c96901657499b45b6de9facc703c)
+
+## Day 91
+
+- 29 November Monday, 2021
+- [Learnt PHP basics from tutorials](https://github.com/AswinBarath/PHP-Programming-Notes/commits?author=AswinBarath&since=2021-11-28&until=2021-11-29)
+
+## Day 92
+
+- 1 December Wednesday, 2021
+- [Worked on Secure Programming Lab 1](https://github.com/AswinBarath/Secure-Programming/commit/9cd9eab8c490ddaf3a6cfec99fd750ef4e2bca9a)
+
+## Day 93
+
+- 4 December Saturday, 2021
+- Revised the concepts of C Programming:
+	- pointers
+	- structure
+	- dynamic memory allocation
+
+## Day 94
+
+- 5 December Sunday, 2021
+- Revised data strctures:
+	- Arrays
+	- Hashmaps
+	- Linked lists
+- Also revised algorithms:
+	- Recursion
+	- Sorting
+	- Searching
+
+## Day 95
+
+- 6 December Monday, 2021
+- Revised SQL commands and concepts
+
+## Day 96
+
+- 12 December Sunday, 2021
+- Started working on command line script project with JavaScript
+
+## Day 97
+
+- 26 December Sunday, 2021
+- Continued the project work on command line script project with JavaScript and Python
+- [Implemented several tasks and passed some of the test cases](https://github.com/AswinBarath/Command-Line-JS-Script/commits?author=AswinBarath&since=2021-12-25&until=2021-12-26)
+
+## Day 98
+
+- 27 December Monday, 2021
+- Successfully worked on CLI project in Python
+- [Passed 16/16 test cases from CLI project using python](https://github.com/AswinBarath/CLI-in-Python/commits?author=AswinBarath&since=2021-12-26&until=2021-12-27)
+
+## Day 99
+
+- 29 December Wednesday, 2021
+- [Compiled and formatted the resources on IT Workshop in Python](https://github.com/AswinBarath/IT-Workshop-on-Python/commits?author=AswinBarath&since=2021-12-28&until=2021-12-29)
+
+## Day 100
+
+- 30 December Thursday, 2021
+- Worked on DSA-Craker-Sheet and SDE-sheet documentation
+
+## December 31, Friday
+
+- Set the goals for 2021 using the following respositories:
+	- AswinBarath/100-days-of-web-end
+	- AswinBarath/100-days-of-java
+	- AswinBarath/100-days-of-python
+	- AswinBarath/100-days-of-software-engineering
+	- AswinBarath/100-days-of-ds-algo
+
 ---
 
 ## Contributors
