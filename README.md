@@ -1098,6 +1098,29 @@ Learn more about firebase from my blog posts:
 - Solved problems to find Size, Height, Max & Min from a Binary Tree
 - Trees Repo: https://git.io/J1MM0
 
+## Day 87
+
+- 21 Nov Sunday, 2021
+- Learnt react-router-dom tutorial
+- Implemented basic routing in JU Query
+
+## Day 88
+
+- 23 November Tuesday, 2021
+- Implemented on Tree traversals
+- Documented tree traversals neatly on README
+- [Tree Travesal Docs Commit](https://github.com/AswinBarath/Trees/commit/45650e41427d43c17d680f91a62f3f91b66839d3)
+
+## Day 89
+
+- 25 November Thursday, 2021
+- [Implemented Postorder iterative tree traversals using 1 stack and 2 stacks in java](https://github.com/AswinBarath/Trees/commit/d38654cc9d55044aeff1b0ae9f33ce10ab72d824)
+
+## Day 90
+
+- 26 November Friday, 2021
+- [Updated Java packages and classes with tree traversals](https://github.com/AswinBarath/Trees/commit/a4f8a625ea84f1ceb57829bdf69bee4ff77ee092)
+- Added extensive documentation for Linked-lists, Bit-Manipulation, Binary-search and Trees repositories
 
 ---
 
