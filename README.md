@@ -1147,7 +1147,7 @@ Learn more about firebase from my blog posts:
 ## Day 94
 
 - 5 December Sunday, 2021
-- Revised data strctures:
+- Revised data structures:
 	- Arrays
 	- Hashmaps
 	- Linked lists
